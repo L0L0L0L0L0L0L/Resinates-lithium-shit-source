@@ -1,0 +1,891 @@
+[Wed Oct 09 07:06:07 PDT 2024] Silveraze gained 1x Sweetwater Twin Angels - for (x1) - Mesos from shop owner SakuraMiyawa.
+---------------------------------
+
+[Wed Oct 09 07:06:47 PDT 2024] Madness gained 1x Arcane Umbra Pirate Shoes - for (x550) - Donation Point from shop owner UncleL33.
+---------------------------------
+
+[Wed Oct 09 07:23:43 PDT 2024] bayang2 gained 1x Arcane Umbra Thief Suit - for (x1) - Mesos from shop owner Mofan.
+---------------------------------
+
+[Wed Oct 09 07:28:30 PDT 2024] Miyeon gained 1x Sweetwater Twin Angels - for (x1) - Mesos from shop owner Silveraze.
+---------------------------------
+
+[Wed Oct 09 08:39:16 PDT 2024] GeoRebirth gained 1x Arcane Umbra Knight Shoulder - for (x300) - Donation Point from shop owner Aurora.
+---------------------------------
+
+[Wed Oct 09 08:39:22 PDT 2024] GeoRebirth gained 1x Arcane Umbra Knight Shoes - for (x250) - Donation Point from shop owner Aurora.
+---------------------------------
+
+[Wed Oct 09 08:39:25 PDT 2024] GeoRebirth gained 1x Arcane Umbra Knight Cape - for (x250) - Donation Point from shop owner Aurora.
+---------------------------------
+
+[Wed Oct 09 08:39:29 PDT 2024] GeoRebirth gained 1x Arcane Umbra Knight Gloves - for (x300) - Donation Point from shop owner Aurora.
+---------------------------------
+
+[Wed Oct 09 08:39:51 PDT 2024] Provix gained 1x Arcane Umbra Thief Shoes - for (x100) - Donation Point from shop owner Aurora.
+---------------------------------
+
+[Wed Oct 09 08:41:10 PDT 2024] Technician gained 1x Arcane Umbra Pirate Shoulder - for (x350) - Donation Point from shop owner Aurora.
+---------------------------------
+
+[Wed Oct 09 09:32:22 PDT 2024] MaxD gained 1x Arcane Umbra Knight Shoes - for (x1) - Mesos from shop owner Mofan.
+---------------------------------
+
+[Wed Oct 09 09:32:23 PDT 2024] MaxD gained 1x Arcane Umbra Knight Shoulder - for (x1) - Mesos from shop owner Mofan.
+---------------------------------
+
+[Wed Oct 09 09:44:08 PDT 2024] Madness gained 1x Arcane Umbra Pirate Cape - for (x300) - Donation Point from shop owner MaxD.
+---------------------------------
+
+[Wed Oct 09 09:44:31 PDT 2024] Madness gained 1x Arcane Umbra Pirate Gloves - for (x200) - Donation Point from shop owner MaxD.
+---------------------------------
+
+[Wed Oct 09 09:45:08 PDT 2024] Madness gained 1x Arcane Umbra Guards - for (x250) - Donation Point from shop owner MaxD.
+---------------------------------
+
+[Wed Oct 09 10:14:34 PDT 2024] ArcherBender gained 1x Arcane Umbra Pirate Shoes - for (x150) - Donation Point from shop owner MaxD.
+---------------------------------
+
+[Wed Oct 09 10:42:25 PDT 2024] LordLeones gained 1x Arcane Umbra Guards - for (x150) - Donation Point from shop owner UncleL33.
+---------------------------------
+
+[Wed Oct 09 10:42:34 PDT 2024] ArcherBender gained 1x Arcane Umbra Pirate Suit - for (x300) - Donation Point from shop owner aaa111.
+---------------------------------
+
+[Wed Oct 09 10:42:36 PDT 2024] LordLeones gained 1x Arcane Umbra Thief Suit - for (x100) - Donation Point from shop owner UncleL33.
+---------------------------------
+
+[Wed Oct 09 10:42:42 PDT 2024] LordLeones gained 1x Arcane Umbra Thief Shoes - for (x500) - Donation Point from shop owner UncleL33.
+---------------------------------
+
+[Wed Oct 09 10:43:39 PDT 2024] LordLeones gained 1x The True Abyss - for (x1000) - Donation Point from shop owner UncleL33.
+---------------------------------
+
+[Wed Oct 09 10:44:40 PDT 2024] Provix gained 1x Arcane Umbra Thief Suit - for (x60) - Donation Point from shop owner AIexis.
+---------------------------------
+
+[Wed Oct 09 10:47:55 PDT 2024] LordLeones gained 1x Verus Hillaroid - for (x1200) - Donation Point from shop owner bowwww.
+---------------------------------
+
+[Wed Oct 09 10:48:59 PDT 2024] LordLeones gained 1x Stone of Eternal Life - for (x100) - Donation Point from shop owner MaxD.
+---------------------------------
+
+[Wed Oct 09 10:49:05 PDT 2024] Provix gained 1x Arcane Umbra Thief Cape - for (x60) - Donation Point from shop owner AIexis.
+---------------------------------
+
+[Wed Oct 09 10:49:45 PDT 2024] Zen13 gained 1x Arcane Umbra Knight Hat - for (x500) - Donation Point from shop owner UncleL33.
+---------------------------------
+
+[Wed Oct 09 10:55:19 PDT 2024] DayLight gained 1x Arcane Umbra Archer Shoes - for (x1) - Mesos from shop owner aaa111.
+---------------------------------
+
+[Wed Oct 09 11:01:38 PDT 2024] Zen13 gained 1x Arcane Umbra Two-Handed Hammer - for (x200) - Donation Point from shop owner AIexis.
+---------------------------------
+
+[Wed Oct 09 11:11:22 PDT 2024] Bobby gained 1x Arcane Umbra Crossbow - for (x200) - Donation Point from shop owner AIexis.
+---------------------------------
+
+[Wed Oct 09 12:24:01 PDT 2024] Fuyuki gained 1x Arcane Umbra Mage Shoes - for (x1) - Mesos from shop owner Miyeon.
+---------------------------------
+
+[Wed Oct 09 12:24:03 PDT 2024] Fuyuki gained 1x Dreamy Belt - for (x1) - Mesos from shop owner Miyeon.
+---------------------------------
+
+[Wed Oct 09 12:24:04 PDT 2024] Fuyuki gained 1x Arcane Umbra Mage Gloves - for (x1) - Mesos from shop owner Miyeon.
+---------------------------------
+
+[Wed Oct 09 12:24:06 PDT 2024] Fuyuki gained 1x Fairy Spark - for (x1) - Mesos from shop owner Miyeon.
+---------------------------------
+
+[Wed Oct 09 12:24:07 PDT 2024] Fuyuki gained 1x Genesis Mage Hat - for (x1) - Mesos from shop owner Miyeon.
+---------------------------------
+
+[Wed Oct 09 12:42:47 PDT 2024] Fuyuki gained 1x Genesis Pirate Cape - for (x1) - Mesos from shop owner Miyeon.
+---------------------------------
+
+[Wed Oct 09 14:02:32 PDT 2024] Amaryllis gained 1x Android Vest - for (x1) - Mesos from shop owner Fuyuki.
+---------------------------------
+
+[Wed Oct 09 14:02:32 PDT 2024] Amaryllis gained 1x Maple Cape - for (x1) - Mesos from shop owner Fuyuki.
+---------------------------------
+
+[Wed Oct 09 14:02:34 PDT 2024] Amaryllis gained 1x Talking Witch Hat - for (x1) - Mesos from shop owner Fuyuki.
+---------------------------------
+
+[Wed Oct 09 14:02:34 PDT 2024] Amaryllis gained 1x Beryl Maple Gloves - for (x1) - Mesos from shop owner Fuyuki.
+---------------------------------
+
+[Wed Oct 09 14:02:36 PDT 2024] Amaryllis gained 1x Andriod Earrings - for (x1) - Mesos from shop owner Fuyuki.
+---------------------------------
+
+[Wed Oct 09 14:02:37 PDT 2024] Amaryllis gained 1x Android Legs - for (x1) - Mesos from shop owner Fuyuki.
+---------------------------------
+
+[Wed Oct 09 14:09:19 PDT 2024] Amaryllis gained 1x Supreme All Stat Badge - for (x1) - Mesos from shop owner Fuyuki.
+---------------------------------
+
+[Wed Oct 09 14:13:28 PDT 2024] Amaryllis gained 1x Maple Cup Trophy - for (x1) - Mesos from shop owner Fuyuki.
+---------------------------------
+
+[Wed Oct 09 14:38:44 PDT 2024] Amaryllis gained 1x EVA Unit 01 Android - for (x1) - Mesos from shop owner Fuyuki.
+---------------------------------
+
+[Wed Oct 09 18:07:36 PDT 2024] JettRyuk gained 1x Arcane Umbra Dual Bowguns - for (x50) - Donation Point from shop owner MaxD.
+---------------------------------
+
+[Wed Oct 09 18:07:47 PDT 2024] Only gained 1x Arcane Umbra Mage Hat - for (x400) - Donation Point from shop owner MaxD.
+---------------------------------
+
+[Wed Oct 09 19:19:35 PDT 2024] Rocket gained 1x Arcane Umbra Pirate Cape - for (x350) - Donation Point from shop owner UncleL33.
+---------------------------------
+
+[Wed Oct 09 19:19:51 PDT 2024] Fuyuki gained 1x Arcane Umbra Mage Suit - for (x500) - Donation Point from shop owner UncleL33.
+---------------------------------
+
+[Wed Oct 09 19:20:26 PDT 2024] ArcherBender gained 1x Arcane Umbra Archer Gloves - for (x250) - Donation Point from shop owner UncleL33.
+---------------------------------
+
+[Wed Oct 09 19:35:54 PDT 2024] Regis gained 1x Arcane Umbra Mage Gloves - for (x150) - Donation Point from shop owner UncleL33.
+---------------------------------
+
+[Wed Oct 09 20:34:34 PDT 2024] Only gained 1x Arcane Umbra Pirate Shoes - for (x50) - Donation Point from shop owner UncleL33.
+---------------------------------
+
+[Wed Oct 09 20:34:40 PDT 2024] DesmonMer gained 1x Arcane Umbra Thief Shoes - for (x50) - Donation Point from shop owner UncleL33.
+---------------------------------
+
+[Wed Oct 09 20:34:42 PDT 2024] Only gained 1x The True Abyss - for (x500) - Donation Point from shop owner UncleL33.
+---------------------------------
+
+[Wed Oct 09 20:34:51 PDT 2024] DesmonMer gained 1x Arcane Umbra Thief Hat - for (x50) - Donation Point from shop owner UncleL33.
+---------------------------------
+
+[Wed Oct 09 20:34:52 PDT 2024] JettRyuk gained 1x Arcane Umbra Archer Suit - for (x50) - Donation Point from shop owner UncleL33.
+---------------------------------
+
+[Wed Oct 09 20:35:00 PDT 2024] DesmonMer gained 1x Arcane Umbra Thief Gloves - for (x50) - Donation Point from shop owner UncleL33.
+---------------------------------
+
+[Wed Oct 09 20:37:55 PDT 2024] JettRyuk gained 1x Arcane Umbra Archer Gloves - for (x10) - Donation Point from shop owner UncleL33.
+---------------------------------
+
+[Wed Oct 09 20:39:05 PDT 2024] AIexis gained 1x Willroid - for (x1) - Donation Point from shop owner Only.
+---------------------------------
+
+[Wed Oct 09 20:39:06 PDT 2024] AIexis gained 1x The True Abyss - for (x1) - Donation Point from shop owner Only.
+---------------------------------
+
+[Wed Oct 09 20:39:31 PDT 2024] Rocket gained 1x Arcane Umbra Pirate Suit - for (x100) - Donation Point from shop owner UncleL33.
+---------------------------------
+
+[Wed Oct 09 20:44:05 PDT 2024] FallenOne gained 1x Arcane Umbra Two-Handed Axe - for (x1) - Golden Meso Bag from shop owner UncleL33.
+---------------------------------
+
+[Wed Oct 09 20:44:07 PDT 2024] Only gained 1x Limbo's Mask - for (x1) - Golden Meso Bag from shop owner UncleL33.
+---------------------------------
+
+[Wed Oct 09 20:44:14 PDT 2024] JettRyuk gained 1x Arcane Umbra Dual Bowguns - for (x1) - Golden Meso Bag from shop owner UncleL33.
+---------------------------------
+
+[Wed Oct 09 20:44:17 PDT 2024] AIexis gained 1x Arcane Umbra Knight Cape - for (x1) - Golden Meso Bag from shop owner UncleL33.
+---------------------------------
+
+[Wed Oct 09 20:44:21 PDT 2024] FallenOne gained 1x Arcane Umbra Knight Gloves - for (x1) - Golden Meso Bag from shop owner UncleL33.
+---------------------------------
+
+[Wed Oct 09 20:44:23 PDT 2024] AIexis gained 1x Arcane Umbra Pirate Suit - for (x1) - Golden Meso Bag from shop owner UncleL33.
+---------------------------------
+
+[Wed Oct 09 20:44:29 PDT 2024] FallenOne gained 1x Arcane Umbra Saber - for (x1) - Golden Meso Bag from shop owner UncleL33.
+---------------------------------
+
+[Wed Oct 09 20:44:46 PDT 2024] Only gained 1x Arcane Umbra Pirate Cape - for (x1) - Golden Meso Bag from shop owner UncleL33.
+---------------------------------
+
+[Wed Oct 09 20:44:48 PDT 2024] FallenOne gained 1x Arcane Umbra Hammer - for (x1) - Golden Meso Bag from shop owner UncleL33.
+---------------------------------
+
+[Wed Oct 09 20:44:51 PDT 2024] Only gained 1x Arcane Umbra Pirate Shoes - for (x1) - Golden Meso Bag from shop owner UncleL33.
+---------------------------------
+
+[Wed Oct 09 20:44:56 PDT 2024] Only gained 1x Arcane Umbra Pirate Cape - for (x1) - Golden Meso Bag from shop owner UncleL33.
+---------------------------------
+
+[Wed Oct 09 20:44:59 PDT 2024] FallenOne gained 1x Arcane Umbra Two-Handed Axe - for (x1) - Golden Meso Bag from shop owner UncleL33.
+---------------------------------
+
+[Wed Oct 09 20:46:50 PDT 2024] ArcherBender gained 1x Arcane Umbra Pirate Hat - for (x1) - Golden Meso Bag from shop owner UncleL33.
+---------------------------------
+
+[Wed Oct 09 23:43:09 PDT 2024] YoyoTH gained 1x Royal Von Leon Mage Boots - for (x1) - Mesos from shop owner ENEOS.
+---------------------------------
+
+[Wed Oct 09 23:43:11 PDT 2024] YoyoTH gained 1x Pink Bean Slayer - for (x1) - Mesos from shop owner ENEOS.
+---------------------------------
+
+[Wed Oct 09 23:43:11 PDT 2024] YoyoTH gained 1x Royal Von Leon Magician Helm - for (x1) - Mesos from shop owner ENEOS.
+---------------------------------
+
+[Wed Oct 09 23:43:13 PDT 2024] YoyoTH gained 1x Nocturnal Staff - for (x1) - Mesos from shop owner ENEOS.
+---------------------------------
+
+[Wed Oct 09 23:43:13 PDT 2024] YoyoTH gained 1x Eligos Bloody Cape - for (x1) - Mesos from shop owner ENEOS.
+---------------------------------
+
+[Thu Oct 10 02:15:39 PDT 2024] Minh gained 1x Sweetwater Shoes - for (x1) - Golden Meso Bag from shop owner DesmonMer.
+---------------------------------
+
+[Thu Oct 10 02:15:41 PDT 2024] Minh gained 1x Crimson Maple Beret - for (x1) - Golden Meso Bag from shop owner DesmonMer.
+---------------------------------
+
+[Thu Oct 10 02:15:42 PDT 2024] Minh gained 1x Sweetwater Gloves - for (x1) - Golden Meso Bag from shop owner DesmonMer.
+---------------------------------
+
+[Thu Oct 10 02:15:43 PDT 2024] Minh gained 1x Arcane Umbra Pirate Shoes - for (x1) - Golden Meso Bag from shop owner DesmonMer.
+---------------------------------
+
+[Thu Oct 10 02:15:44 PDT 2024] Minh gained 1x Falcon Wing Sentinel Boots - for (x1) - Golden Meso Bag from shop owner DesmonMer.
+---------------------------------
+
+[Thu Oct 10 02:15:45 PDT 2024] Minh gained 1x Genesis Mage Hat - for (x1) - Golden Meso Bag from shop owner DesmonMer.
+---------------------------------
+
+[Thu Oct 10 02:15:46 PDT 2024] Minh gained 1x Falcon Wing Sentinel Cape - for (x1) - Golden Meso Bag from shop owner DesmonMer.
+---------------------------------
+
+[Thu Oct 10 02:15:47 PDT 2024] Minh gained 1x Falcon Wing Sentinel Suit - for (x1) - Golden Meso Bag from shop owner DesmonMer.
+---------------------------------
+
+[Thu Oct 10 02:15:49 PDT 2024] Minh gained 1x Sweetwater Monocle - for (x1) - Golden Meso Bag from shop owner DesmonMer.
+---------------------------------
+
+[Thu Oct 10 02:18:18 PDT 2024] Minh gained 1x Iron Heart - for (x1) - Golden Meso Bag from shop owner DesmonMer.
+---------------------------------
+
+[Thu Oct 10 02:18:20 PDT 2024] Minh gained 1x Frozen Magic Arrows - for (x1) - Golden Meso Bag from shop owner DesmonMer.
+---------------------------------
+
+[Thu Oct 10 02:18:21 PDT 2024] Minh gained 1x Bain Wings  - for (x1) - Golden Meso Bag from shop owner DesmonMer.
+---------------------------------
+
+[Thu Oct 10 02:23:39 PDT 2024] Minh gained 1x Beryl Maple Dual Bowguns - for (x1) - Golden Meso Bag from shop owner DesmonMer.
+---------------------------------
+
+[Thu Oct 10 02:23:40 PDT 2024] Minh gained 1x Frozen Magic Arrows - for (x1) - Golden Meso Bag from shop owner DesmonMer.
+---------------------------------
+
+[Thu Oct 10 02:28:57 PDT 2024] UncleL33 gained 1x Arcane Umbra Archer Shoulder - for (x500) - Donation Point from shop owner Miyeon.
+---------------------------------
+
+[Thu Oct 10 02:34:02 PDT 2024] Rocket gained 1x AbsoLab Knight Shoulder - for (x500) - Donation Point from shop owner UncleL33.
+---------------------------------
+
+[Thu Oct 10 03:45:59 PDT 2024] Wrath gained 1x Infinity Power Scroll - for (x5) - Donation Point from shop owner MaxD.
+---------------------------------
+
+[Thu Oct 10 03:51:22 PDT 2024] Rocket gained 1x Arcane Umbra Pirate Suit - for (x500) - Donation Point from shop owner Miyeon.
+---------------------------------
+
+[Thu Oct 10 05:35:41 PDT 2024] YoyoTH gained 1x Dragon Tail Mage Cape - for (x1) - Mesos from shop owner ENEOS.
+---------------------------------
+
+[Thu Oct 10 05:35:43 PDT 2024] YoyoTH gained 1x Eligos Bloody Mail - for (x1) - Mesos from shop owner ENEOS.
+---------------------------------
+
+[Thu Oct 10 05:35:44 PDT 2024] YoyoTH gained 1x Eligos Bloody Gear - for (x1) - Mesos from shop owner ENEOS.
+---------------------------------
+
+[Thu Oct 10 05:35:45 PDT 2024] YoyoTH gained 1x Savior of the Empress - for (x1) - Mesos from shop owner ENEOS.
+---------------------------------
+
+[Thu Oct 10 05:35:46 PDT 2024] YoyoTH gained 1x Commander Von Leon Mask - for (x1) - Mesos from shop owner ENEOS.
+---------------------------------
+
+[Thu Oct 10 05:35:48 PDT 2024] YoyoTH gained 1x Eligos Bloody Rod - for (x1) - Mesos from shop owner ENEOS.
+---------------------------------
+
+[Thu Oct 10 05:35:49 PDT 2024] YoyoTH gained 1x Dragon Tail Mage Shoes - for (x1) - Mesos from shop owner ENEOS.
+---------------------------------
+
+[Thu Oct 10 07:31:10 PDT 2024] KannaKunt gained 1x The True Abyss - for (x50) - Donation Point from shop owner AIexis.
+---------------------------------
+
+[Thu Oct 10 07:31:19 PDT 2024] KannaKunt gained 1x Zombie Army Ring - for (x20) - Donation Point from shop owner AIexis.
+---------------------------------
+
+[Thu Oct 10 07:31:34 PDT 2024] KannaKunt gained 1x Zombie Army Ring - for (x20) - Donation Point from shop owner AIexis.
+---------------------------------
+
+[Thu Oct 10 07:31:37 PDT 2024] Regis gained 1x Reverse Cabatina - for (x50) - Donation Point from shop owner AIexis.
+---------------------------------
+
+[Thu Oct 10 07:31:56 PDT 2024] ENEOS gained 1x Sweetwater Gloves - for (x50) - Donation Point from shop owner AIexis.
+---------------------------------
+
+[Thu Oct 10 07:35:54 PDT 2024] Madness gained 1x Arcane Umbra Two-Handed Axe - for (x80) - Donation Point from shop owner AIexis.
+---------------------------------
+
+[Thu Oct 10 07:53:22 PDT 2024] Miyeon gained 1x Genesis Badge - for (x500) - Donation Point from shop owner Silveraze.
+---------------------------------
+
+[Thu Oct 10 07:56:44 PDT 2024] Madness gained 1x Arcane Umbra Pirate Gloves - for (x100) - Donation Point from shop owner Miyeon.
+---------------------------------
+
+[Thu Oct 10 07:56:45 PDT 2024] Newie gained 1x Arcane Umbra Knight Cape - for (x50) - Donation Point from shop owner AIexis.
+---------------------------------
+
+[Thu Oct 10 07:56:49 PDT 2024] Newie gained 1x Arcane Umbra Spear - for (x60) - Donation Point from shop owner AIexis.
+---------------------------------
+
+[Thu Oct 10 07:57:35 PDT 2024] AIexis gained 1x Arcane Umbra Mage Shoulder - for (x100) - Donation Point from shop owner Miyeon.
+---------------------------------
+
+[Thu Oct 10 08:29:26 PDT 2024] DayLight gained 1x Falcon Wing Sentinel Shoulder - for (x60) - Donation Point from shop owner AIexis.
+---------------------------------
+
+[Thu Oct 10 11:42:33 PDT 2024] SnailSmasher gained 1x Sweetwater Suit - for (x1) - Mesos from shop owner GeoRebirth.
+---------------------------------
+
+[Thu Oct 10 11:42:35 PDT 2024] SnailSmasher gained 1x Sweetwater Shoulder - for (x1) - Mesos from shop owner GeoRebirth.
+---------------------------------
+
+[Thu Oct 10 11:42:36 PDT 2024] SnailSmasher gained 1x Sweetwater Maul - for (x1) - Mesos from shop owner GeoRebirth.
+---------------------------------
+
+[Thu Oct 10 11:42:37 PDT 2024] SnailSmasher gained 1x Sweetwater Belt - for (x1) - Mesos from shop owner GeoRebirth.
+---------------------------------
+
+[Thu Oct 10 11:42:39 PDT 2024] SnailSmasher gained 1x Aura Pendant - for (x1) - Mesos from shop owner GeoRebirth.
+---------------------------------
+
+[Thu Oct 10 11:42:40 PDT 2024] SnailSmasher gained 1x Aura Pendant - for (x1) - Mesos from shop owner GeoRebirth.
+---------------------------------
+
+[Thu Oct 10 11:42:41 PDT 2024] SnailSmasher gained 1x Aura Pendant - for (x1) - Mesos from shop owner GeoRebirth.
+---------------------------------
+
+[Thu Oct 10 11:42:43 PDT 2024] SnailSmasher gained 1x Toasty Muffler - for (x1) - Mesos from shop owner GeoRebirth.
+---------------------------------
+
+[Thu Oct 10 11:42:45 PDT 2024] SnailSmasher gained 1x Arcane Umbra Thief Hat - for (x1) - Mesos from shop owner GeoRebirth.
+---------------------------------
+
+[Thu Oct 10 11:42:46 PDT 2024] SnailSmasher gained 1x Sweetwater Hat - for (x1) - Mesos from shop owner GeoRebirth.
+---------------------------------
+
+[Thu Oct 10 11:42:48 PDT 2024] SnailSmasher gained 1x Sweetwater Gloves - for (x1) - Mesos from shop owner GeoRebirth.
+---------------------------------
+
+[Thu Oct 10 11:42:49 PDT 2024] SnailSmasher gained 1x Sweetwater Shoulder - for (x1) - Mesos from shop owner GeoRebirth.
+---------------------------------
+
+[Thu Oct 10 11:42:50 PDT 2024] SnailSmasher gained 1x Maple Kandayo - for (x1) - Mesos from shop owner GeoRebirth.
+---------------------------------
+
+[Thu Oct 10 11:42:51 PDT 2024] SnailSmasher gained 1x Aura Pendant - for (x1) - Mesos from shop owner GeoRebirth.
+---------------------------------
+
+[Thu Oct 10 11:53:25 PDT 2024] DayLight gained 1x Genesis Bowman Cape - for (x1) - Mesos from shop owner bowwww.
+---------------------------------
+
+[Thu Oct 10 13:51:14 PDT 2024] Zen13 gained 1x Toasty Muffler - for (x100) - Donation Point from shop owner SnailSmasher.
+---------------------------------
+
+[Thu Oct 10 20:00:54 PDT 2024] YoyoTH gained 1x Sweetwater Shoulder - for (x1) - Mesos from shop owner ENEOS.
+---------------------------------
+
+[Thu Oct 10 20:00:55 PDT 2024] YoyoTH gained 1x Purple Adventurer Cape - for (x1) - Mesos from shop owner ENEOS.
+---------------------------------
+
+[Thu Oct 10 20:00:56 PDT 2024] YoyoTH gained 1x Timeless Prelude - for (x1) - Mesos from shop owner ENEOS.
+---------------------------------
+
+[Thu Oct 10 20:00:57 PDT 2024] YoyoTH gained 1x Rudolph's Red Nose - for (x1) - Mesos from shop owner ENEOS.
+---------------------------------
+
+[Thu Oct 10 20:01:00 PDT 2024] YoyoTH gained 1x Toasty Muffler - for (x1) - Mesos from shop owner ENEOS.
+---------------------------------
+
+[Thu Oct 10 20:01:01 PDT 2024] YoyoTH gained 1x Sweetwater Gloves - for (x1) - Mesos from shop owner ENEOS.
+---------------------------------
+
+[Thu Oct 10 20:01:02 PDT 2024] YoyoTH gained 1x Royal Von Leon Mage Hands - for (x1) - Mesos from shop owner ENEOS.
+---------------------------------
+
+[Thu Oct 10 20:01:03 PDT 2024] YoyoTH gained 1x Sweetwater Belt - for (x1) - Mesos from shop owner ENEOS.
+---------------------------------
+
+[Thu Oct 10 20:01:04 PDT 2024] YoyoTH gained 1x Zombie Army Ring - for (x1) - Mesos from shop owner ENEOS.
+---------------------------------
+
+[Thu Oct 10 20:01:06 PDT 2024] YoyoTH gained 1x Maple Beryl Buckle - for (x1) - Mesos from shop owner ENEOS.
+---------------------------------
+
+[Thu Oct 10 20:01:08 PDT 2024] YoyoTH gained 1x Toasty Muffler - for (x1) - Mesos from shop owner ENEOS.
+---------------------------------
+
+[Thu Oct 10 20:01:10 PDT 2024] YoyoTH gained 1x Tyrant Mage Hat - for (x1) - Mesos from shop owner ENEOS.
+---------------------------------
+
+[Thu Oct 10 20:01:11 PDT 2024] YoyoTH gained 1x Legendary Maple Manabreaker - for (x1) - Mesos from shop owner ENEOS.
+---------------------------------
+
+[Thu Oct 10 20:01:13 PDT 2024] YoyoTH gained 1x Tyrant Hermes Gloves - for (x1) - Mesos from shop owner ENEOS.
+---------------------------------
+
+[Thu Oct 10 20:01:14 PDT 2024] YoyoTH gained 1x Sweetwater Earrings - for (x1) - Mesos from shop owner ENEOS.
+---------------------------------
+
+[Thu Oct 10 20:01:15 PDT 2024] YoyoTH gained 1x Tyrant Hermes Cloak - for (x1) - Mesos from shop owner ENEOS.
+---------------------------------
+
+[Thu Oct 10 20:01:17 PDT 2024] YoyoTH gained 1x Tyrant Hermes Belt - for (x1) - Mesos from shop owner ENEOS.
+---------------------------------
+
+[Thu Oct 10 20:01:19 PDT 2024] YoyoTH gained 1x Magnus's Rage - for (x1) - Mesos from shop owner ENEOS.
+---------------------------------
+
+[Thu Oct 10 20:01:20 PDT 2024] YoyoTH gained 1x Sweetwater Suit - for (x1) - Mesos from shop owner ENEOS.
+---------------------------------
+
+[Thu Oct 10 20:01:22 PDT 2024] YoyoTH gained 1x Sweetwater Shoes - for (x1) - Mesos from shop owner ENEOS.
+---------------------------------
+
+[Thu Oct 10 20:01:59 PDT 2024] YoyoTH gained 1x Limbo's Mask - for (x1) - Mesos from shop owner ENEOS.
+---------------------------------
+
+[Thu Oct 10 20:02:00 PDT 2024] YoyoTH gained 1x Limbo's Mask - for (x1) - Mesos from shop owner ENEOS.
+---------------------------------
+
+[Thu Oct 10 20:02:00 PDT 2024] YoyoTH gained 1x Limbo's Mask - for (x1) - Mesos from shop owner ENEOS.
+---------------------------------
+
+[Thu Oct 10 20:02:01 PDT 2024] YoyoTH gained 1x Limbo's Mask - for (x1) - Mesos from shop owner ENEOS.
+---------------------------------
+
+[Thu Oct 10 20:02:03 PDT 2024] YoyoTH gained 1x Limbo's Mask - for (x1) - Mesos from shop owner ENEOS.
+---------------------------------
+
+[Thu Oct 10 20:02:04 PDT 2024] YoyoTH gained 1x Limbo's Mask - for (x1) - Mesos from shop owner ENEOS.
+---------------------------------
+
+[Thu Oct 10 20:02:05 PDT 2024] YoyoTH gained 1x Limbo's Mask - for (x1) - Mesos from shop owner ENEOS.
+---------------------------------
+
+[Thu Oct 10 20:02:06 PDT 2024] YoyoTH gained 1x Limbo's Mask - for (x1) - Mesos from shop owner ENEOS.
+---------------------------------
+
+[Thu Oct 10 20:08:41 PDT 2024] YoyoTH gained 1x Doom Shoulder - for (x1) - Mesos from shop owner ENEOS.
+---------------------------------
+
+[Thu Oct 10 20:25:46 PDT 2024] AIexis gained 1x Maple Skanda - for (x2000) - Donation Point from shop owner SnailSmasher.
+---------------------------------
+
+[Thu Oct 10 20:46:29 PDT 2024] Only gained 1x Plaid Pashmina (Brown) - for (x1) - Mesos from shop owner AIexis.
+---------------------------------
+
+[Thu Oct 10 20:46:34 PDT 2024] Only gained 1x Determination Ring - for (x1) - Mesos from shop owner AIexis.
+---------------------------------
+
+[Thu Oct 10 20:46:39 PDT 2024] Only gained 1x Determination Ring - for (x1) - Mesos from shop owner AIexis.
+---------------------------------
+
+[Thu Oct 10 20:46:45 PDT 2024] Only gained 1x Dark Furrytail Cat's Ears - for (x1) - Mesos from shop owner AIexis.
+---------------------------------
+
+[Thu Oct 10 20:46:47 PDT 2024] Only gained 1x Sweetwater Tattoo - for (x1) - Mesos from shop owner AIexis.
+---------------------------------
+
+[Thu Oct 10 20:46:49 PDT 2024] Only gained 1x Determination Ring - for (x1) - Mesos from shop owner AIexis.
+---------------------------------
+
+[Thu Oct 10 20:46:51 PDT 2024] Only gained 1x Transparent Earrings - for (x1) - Mesos from shop owner AIexis.
+---------------------------------
+
+[Thu Oct 10 20:46:53 PDT 2024] Only gained 1x Arcane Umbra Knight Cape - for (x1) - Mesos from shop owner AIexis.
+---------------------------------
+
+[Thu Oct 10 20:49:46 PDT 2024] AIexis gained 1x Transparent Earrings - for (x1) - Mesos from shop owner Only.
+---------------------------------
+
+[Thu Oct 10 20:49:46 PDT 2024] AIexis gained 1x Arcane Umbra Knight Cape - for (x1) - Mesos from shop owner Only.
+---------------------------------
+
+[Thu Oct 10 20:49:47 PDT 2024] AIexis gained 1x Dark Furrytail Cat's Ears - for (x1) - Mesos from shop owner Only.
+---------------------------------
+
+[Thu Oct 10 20:49:48 PDT 2024] AIexis gained 1x Plaid Pashmina (Brown) - for (x1) - Mesos from shop owner Only.
+---------------------------------
+
+[Fri Oct 11 00:46:36 PDT 2024] YoyoTH gained 1x EVA Unit 01 Android - for (x1) - Mesos from shop owner ENEOS.
+---------------------------------
+
+[Fri Oct 11 00:47:08 PDT 2024] YoyoTH gained 1x Sweetwater Gloves - for (x1) - Mesos from shop owner ENEOS.
+---------------------------------
+
+[Fri Oct 11 00:48:24 PDT 2024] YoyoTH gained 1x Tyrant Hermes Gloves - for (x1) - Mesos from shop owner ENEOS.
+---------------------------------
+
+[Fri Oct 11 00:48:26 PDT 2024] YoyoTH gained 1x Tyrant Hermes Boots - for (x1) - Mesos from shop owner ENEOS.
+---------------------------------
+
+[Fri Oct 11 00:48:27 PDT 2024] YoyoTH gained 1x Tyrant Charon Belt - for (x1) - Mesos from shop owner ENEOS.
+---------------------------------
+
+[Fri Oct 11 00:48:29 PDT 2024] YoyoTH gained 1x Tyrant Mage Overall - for (x1) - Mesos from shop owner ENEOS.
+---------------------------------
+
+[Fri Oct 11 00:48:30 PDT 2024] YoyoTH gained 1x Magnus's Rage - for (x1) - Mesos from shop owner ENEOS.
+---------------------------------
+
+[Fri Oct 11 00:48:32 PDT 2024] YoyoTH gained 1x Tyrant Hermes Cloak - for (x1) - Mesos from shop owner ENEOS.
+---------------------------------
+
+[Fri Oct 11 03:12:48 PDT 2024] ASAPzz gained 1x Limbo's Mask - for (x180) - Donation Point from shop owner UncleL33.
+---------------------------------
+
+[Fri Oct 11 03:25:05 PDT 2024] JavixXD gained 1x Muspell Bowman Shoes - for (x1500) - Donation Point from shop owner SnailSmasher.
+---------------------------------
+
+[Fri Oct 11 03:34:58 PDT 2024] Madness gained 1x Lovely Smile - for (x350) - Donation Point from shop owner UncleL33.
+---------------------------------
+
+[Fri Oct 11 05:40:25 PDT 2024] Mofan gained 1x Genesis Thief Gloves - for (x1) - Donation Point from shop owner Aurora.
+---------------------------------
+
+[Fri Oct 11 07:12:06 PDT 2024] Mofan gained 1x Genesis Mage Gloves - for (x1) - Donation Point from shop owner Aurora.
+---------------------------------
+
+[Fri Oct 11 07:49:44 PDT 2024] bayang2 gained 1x Arcane Umbra Thief Shoulder - for (x400) - Donation Point from shop owner AIexis.
+---------------------------------
+
+[Fri Oct 11 08:05:42 PDT 2024] Newie gained 1x Sweetwater Tattoo - for (x50) - Donation Point from shop owner ENEOS.
+---------------------------------
+
+[Fri Oct 11 08:05:52 PDT 2024] Newie gained 1x Sweetwater Ring - for (x50) - Donation Point from shop owner ENEOS.
+---------------------------------
+
+[Fri Oct 11 08:07:22 PDT 2024] Smores gained 1x Sweetwater Pendant - for (x50) - Donation Point from shop owner ENEOS.
+---------------------------------
+
+[Fri Oct 11 08:07:36 PDT 2024] Smores gained 1x Zombie Army Ring - for (x50) - Donation Point from shop owner ENEOS.
+---------------------------------
+
+[Fri Oct 11 08:08:48 PDT 2024] Smores gained 1x Limbo's Mask - for (x50) - Donation Point from shop owner ENEOS.
+---------------------------------
+
+[Fri Oct 11 08:08:50 PDT 2024] MaxD gained 1x Genesis Warrior Overall - for (x1) - Mesos from shop owner Aurora.
+---------------------------------
+
+[Fri Oct 11 08:08:52 PDT 2024] MaxD gained 1x Genesis Warrior Helmet - for (x1) - Mesos from shop owner Aurora.
+---------------------------------
+
+[Fri Oct 11 08:08:54 PDT 2024] Smores gained 1x Sweetwater Tattoo - for (x50) - Donation Point from shop owner ENEOS.
+---------------------------------
+
+[Fri Oct 11 08:10:42 PDT 2024] Tato gained 1x The True Abyss - for (x1) - Mesos from shop owner AIexis.
+---------------------------------
+
+[Fri Oct 11 08:10:43 PDT 2024] Tato gained 1x Transparent Weapon - for (x1) - Mesos from shop owner AIexis.
+---------------------------------
+
+[Fri Oct 11 08:10:43 PDT 2024] Tato gained 1x White Belt - for (x1) - Mesos from shop owner AIexis.
+---------------------------------
+
+[Fri Oct 11 08:10:44 PDT 2024] Tato gained 1x Transparent Shield - for (x1) - Mesos from shop owner AIexis.
+---------------------------------
+
+[Fri Oct 11 08:10:45 PDT 2024] Tato gained 1x Plaid Pashmina (Brown) - for (x1) - Mesos from shop owner AIexis.
+---------------------------------
+
+[Fri Oct 11 08:10:46 PDT 2024] Tato gained 1x Dark Furrytail Cat's Ears - for (x1) - Mesos from shop owner AIexis.
+---------------------------------
+
+[Fri Oct 11 08:10:46 PDT 2024] Tato gained 1x Arcane Umbra Knight Cape - for (x1) - Mesos from shop owner AIexis.
+---------------------------------
+
+[Fri Oct 11 08:10:47 PDT 2024] Tato gained 1x AbsoLab Blade Lord - for (x1) - Mesos from shop owner AIexis.
+---------------------------------
+
+[Fri Oct 11 08:10:48 PDT 2024] Tato gained 1x Transparent Earrings - for (x1) - Mesos from shop owner AIexis.
+---------------------------------
+
+[Fri Oct 11 08:10:48 PDT 2024] Tato gained 1x Arcane Umbra Archer Gloves - for (x1) - Mesos from shop owner AIexis.
+---------------------------------
+
+[Fri Oct 11 08:56:24 PDT 2024] Madness gained 1x Transparent Shield - for (x100) - Donation Point from shop owner Tato.
+---------------------------------
+
+[Fri Oct 11 08:56:25 PDT 2024] Madness gained 1x Transparent Weapon - for (x80) - Donation Point from shop owner Tato.
+---------------------------------
+
+[Fri Oct 11 08:59:01 PDT 2024] ArcherBender gained 1x Bain Biter - for (x20) - Infinity Point from shop owner SnailSmasher.
+---------------------------------
+
+[Fri Oct 11 09:08:44 PDT 2024] BugsBunny gained 1x Jaihin Guards - for (x1) - Donation Point from shop owner Newie.
+---------------------------------
+
+[Fri Oct 11 09:09:50 PDT 2024] BugsBunny gained 1x Sweetwater Suit - for (x1) - Donation Point from shop owner Newie.
+---------------------------------
+
+[Fri Oct 11 10:18:33 PDT 2024] AIexis gained 1x Sweetwater Ring - for (x50) - Donation Point from shop owner MaxD.
+---------------------------------
+
+[Fri Oct 11 10:31:00 PDT 2024] Wrath gained 1x Willroid - for (x700) - Donation Point from shop owner bowwww.
+---------------------------------
+
+[Fri Oct 11 10:35:37 PDT 2024] Wrath gained 1x Arcane Umbra Thief Hat - for (x500) - Donation Point from shop owner Friday.
+---------------------------------
+
+[Fri Oct 11 10:54:35 PDT 2024] Zen13 gained 1x Arabian Gold Bracelet - for (x200) - Donation Point from shop owner MaxD.
+---------------------------------
+
+[Fri Oct 11 10:58:23 PDT 2024] Zen13 gained 1x Sweetwater Ring - for (x100) - Donation Point from shop owner MaxD.
+---------------------------------
+
+[Fri Oct 11 11:07:03 PDT 2024] BadArse gained 1x Genesis Bowman Sallet - for (x1) - Mesos from shop owner bowwww.
+---------------------------------
+
+[Fri Oct 11 11:07:05 PDT 2024] BadArse gained 1x Arcane Umbra Archer Cape - for (x1) - Mesos from shop owner bowwww.
+---------------------------------
+
+[Fri Oct 11 11:07:14 PDT 2024] BadArse gained 1x Limbo's Mask - for (x1) - Mesos from shop owner bowwww.
+---------------------------------
+
+[Fri Oct 11 11:12:59 PDT 2024] BadArse gained 1x Arcane Umbra Archer Shoulder - for (x350) - Donation Point from shop owner UncleL33.
+---------------------------------
+
+[Fri Oct 11 11:14:21 PDT 2024] Madness gained 1x Limbo's Mask - for (x500) - Donation Point from shop owner UncleL33.
+---------------------------------
+
+[Fri Oct 11 11:54:24 PDT 2024] Fuyuki gained 1x Aura Pendant - for (x1) - Mesos from shop owner Tree.
+---------------------------------
+
+[Fri Oct 11 13:11:38 PDT 2024] aaa111 gained 1x Arcane Umbra Polearm - for (x1) - Mesos from shop owner DayLight.
+---------------------------------
+
+[Fri Oct 11 13:11:39 PDT 2024] aaa111 gained 1x Arcane Umbra Knight Gloves - for (x1) - Mesos from shop owner DayLight.
+---------------------------------
+
+[Fri Oct 11 13:11:39 PDT 2024] aaa111 gained 1x Arcane Umbra Archer Hat - for (x1) - Mesos from shop owner DayLight.
+---------------------------------
+
+[Fri Oct 11 13:11:40 PDT 2024] aaa111 gained 1x AbsoLab Mage Shoulder - for (x1) - Mesos from shop owner DayLight.
+---------------------------------
+
+[Fri Oct 11 13:11:41 PDT 2024] aaa111 gained 1x Island Travel Name Tag Ring - for (x1) - Mesos from shop owner DayLight.
+---------------------------------
+
+[Fri Oct 11 13:11:42 PDT 2024] aaa111 gained 1x Aura Pendant - for (x1) - Mesos from shop owner DayLight.
+---------------------------------
+
+[Fri Oct 11 13:11:43 PDT 2024] aaa111 gained 1x Angel Word Bubble Ring - for (x1) - Mesos from shop owner DayLight.
+---------------------------------
+
+[Fri Oct 11 13:11:45 PDT 2024] aaa111 gained 1x Beryl Maple Dual Bowguns - for (x1) - Mesos from shop owner DayLight.
+---------------------------------
+
+[Fri Oct 11 13:42:56 PDT 2024] AIexis gained 1x Maple Hat (Level 2) - for (x500) - Donation Point from shop owner DayLight.
+---------------------------------
+
+[Fri Oct 11 13:53:33 PDT 2024] Fuyuki gained 1x AbsoLab Mage Shoulder - for (x100) - Donation Point from shop owner aaa111.
+---------------------------------
+
+[Fri Oct 11 13:56:47 PDT 2024] ArcherBender gained 1x Genesis Mage Cape - for (x1) - Mesos from shop owner DayLight.
+---------------------------------
+
+[Fri Oct 11 13:57:14 PDT 2024] DayLight gained 1x Arcane Umbra Archer Gloves - for (x1) - Golden Meso Bag from shop owner ArcherBender.
+---------------------------------
+
+[Fri Oct 11 14:39:05 PDT 2024] Zen13 gained 1x Angel Word Bubble Ring - for (x100) - Donation Point from shop owner aaa111.
+---------------------------------
+
+[Fri Oct 11 14:39:16 PDT 2024] Zen13 gained 1x Aura Pendant - for (x100) - Donation Point from shop owner aaa111.
+---------------------------------
+
+[Fri Oct 11 14:41:38 PDT 2024] Zen13 gained 1x Island Travel Name Tag Ring - for (x100) - Donation Point from shop owner aaa111.
+---------------------------------
+
+[Fri Oct 11 14:42:28 PDT 2024] Zen13 gained 1x Beryl Maple Dual Bowguns - for (x800) - Donation Point from shop owner aaa111.
+---------------------------------
+
+[Fri Oct 11 15:29:09 PDT 2024] Zen13 gained 1x Arcane Umbra Thief Gloves - for (x55) - Donation Point from shop owner Tree.
+---------------------------------
+
+[Fri Oct 11 15:29:23 PDT 2024] Zen13 gained 1x Arcane Umbra Pirate Shoes - for (x199) - Donation Point from shop owner Tree.
+---------------------------------
+
+[Fri Oct 11 15:58:15 PDT 2024] Colusa gained 25x Infinity Point - for (x5625) - Donation Point from shop owner SnailSmasher.
+---------------------------------
+
+[Fri Oct 11 17:00:40 PDT 2024] NthGOD gained 1x Arcane Umbra Thief Shoulder - for (x399) - Donation Point from shop owner Tree.
+---------------------------------
+
+[Fri Oct 11 17:02:08 PDT 2024] NthGOD gained 1x Arcane Umbra Thief Cape - for (x255) - Donation Point from shop owner Tree.
+---------------------------------
+
+[Fri Oct 11 17:02:26 PDT 2024] NthGOD gained 1x Arcane Umbra Thief Shoes - for (x199) - Donation Point from shop owner Tree.
+---------------------------------
+
+[Fri Oct 11 17:21:47 PDT 2024] DesmonMer gained 1x Beryl Maple Dual Bowguns - for (x1500) - Donation Point from shop owner DayLight.
+---------------------------------
+
+[Fri Oct 11 19:12:37 PDT 2024] Madness gained 1x Arcane Umbra Pirate Cape - for (x444) - Donation Point from shop owner Tree.
+---------------------------------
+
+[Fri Oct 11 21:41:01 PDT 2024] Regis gained 1x Arcane Umbra Mage Shoes - for (x100) - Donation Point from shop owner aaa111.
+---------------------------------
+
+[Fri Oct 11 23:17:01 PDT 2024] Madness gained 1x Dark Furrytail Cat's Ears - for (x100) - Donation Point from shop owner Tato.
+---------------------------------
+
+[Sat Oct 12 00:06:25 PDT 2024] Smores gained 1x Limbo's Mask - for (x50) - Donation Point from shop owner ENEOS.
+---------------------------------
+
+[Sat Oct 12 00:58:49 PDT 2024] JettRyuk gained 1x Beryl Maple Cloak - for (x50) - Donation Point from shop owner ENEOS.
+---------------------------------
+
+[Sat Oct 12 01:01:44 PDT 2024] JettRyuk gained 1x Sweetwater Monocle - for (x50) - Donation Point from shop owner ENEOS.
+---------------------------------
+
+[Sat Oct 12 01:06:07 PDT 2024] JettRyuk gained 1x Arcane Umbra Archer Hat - for (x100) - Donation Point from shop owner aaa111.
+---------------------------------
+
+[Sat Oct 12 01:06:26 PDT 2024] JettRyuk gained 1x Sweetwater Tattoo - for (x50) - Donation Point from shop owner ENEOS.
+---------------------------------
+
+[Sat Oct 12 01:23:32 PDT 2024] JettRyuk gained 1x Sweetwater Shoes - for (x50) - Donation Point from shop owner ENEOS.
+---------------------------------
+
+[Sat Oct 12 01:24:00 PDT 2024] JettRyuk gained 1x The True Abyss - for (x300) - Donation Point from shop owner Tato.
+---------------------------------
+
+[Sat Oct 12 01:45:05 PDT 2024] ENEOS gained 1x Genesis Pirate Cape - for (x3000) - Donation Point from shop owner SnailSmasher.
+---------------------------------
+
+[Sat Oct 12 02:06:08 PDT 2024] DesmonMer gained 1x Transparent Earrings - for (x600) - Donation Point from shop owner Tato.
+---------------------------------
+
+[Sat Oct 12 05:01:31 PDT 2024] ASAPzz gained 1x Roll-Up Jean - for (x80) - Donation Point from shop owner Cargo.
+---------------------------------
+
+[Sat Oct 12 05:02:06 PDT 2024] ASAPzz gained 1x Sweetwater Earrings - for (x50) - Donation Point from shop owner Cargo.
+---------------------------------
+
+[Sat Oct 12 05:03:30 PDT 2024] ASAPzz gained 1x Sweetwater Ring - for (x30) - Donation Point from shop owner Cargo.
+---------------------------------
+
+[Sat Oct 12 07:19:09 PDT 2024] Bobby gained 1x Plaid Pashmina (Brown) - for (x100) - Donation Point from shop owner Tato.
+---------------------------------
+
+[Sat Oct 12 07:19:32 PDT 2024] Bobby gained 1x White Belt - for (x100) - Donation Point from shop owner Tato.
+---------------------------------
+
+[Sat Oct 12 07:19:48 PDT 2024] Bobby gained 1x Arcane Umbra Archer Gloves - for (x500) - Donation Point from shop owner Tato.
+---------------------------------
+
+[Sat Oct 12 07:46:48 PDT 2024] Colusa gained 1x Infinity Point - for (x225) - Donation Point from shop owner SnailSmasher.
+---------------------------------
+
+[Sat Oct 12 07:46:51 PDT 2024] Colusa gained 4x Infinity Point - for (x900) - Donation Point from shop owner SnailSmasher.
+---------------------------------
+
+[Sat Oct 12 07:59:25 PDT 2024] Tato gained 1x Arcane Umbra Two-Handed Hammer - for (x1) - Mesos from shop owner AIexis.
+---------------------------------
+
+[Sat Oct 12 07:59:26 PDT 2024] Tato gained 1x Tyrant Altair Boots - for (x1) - Mesos from shop owner AIexis.
+---------------------------------
+
+[Sat Oct 12 07:59:26 PDT 2024] Tato gained 1x Reverse Engaw - for (x1) - Mesos from shop owner AIexis.
+---------------------------------
+
+[Sat Oct 12 07:59:27 PDT 2024] Tato gained 1x Maple Kandayo - for (x1) - Mesos from shop owner AIexis.
+---------------------------------
+
+[Sat Oct 12 07:59:28 PDT 2024] Tato gained 1x Timeless Engaw - for (x1) - Mesos from shop owner AIexis.
+---------------------------------
+
+[Sat Oct 12 07:59:29 PDT 2024] Tato gained 1x Sweetwater Shooter - for (x1) - Mesos from shop owner AIexis.
+---------------------------------
+
+[Sat Oct 12 07:59:29 PDT 2024] Tato gained 1x Arcane Umbra Knight Hat - for (x1) - Mesos from shop owner AIexis.
+---------------------------------
+
+[Sat Oct 12 07:59:30 PDT 2024] Tato gained 1x Willroid - for (x1) - Mesos from shop owner AIexis.
+---------------------------------
+
+[Sat Oct 12 07:59:32 PDT 2024] Tato gained 1x Arcane Umbra Pirate Suit - for (x1) - Mesos from shop owner AIexis.
+---------------------------------
+
+[Sat Oct 12 07:59:33 PDT 2024] Tato gained 1x Reverse Blindness - for (x1) - Mesos from shop owner AIexis.
+---------------------------------
+
+[Sat Oct 12 07:59:33 PDT 2024] Tato gained 1x Magnus's Rage - for (x1) - Mesos from shop owner AIexis.
+---------------------------------
+
+[Sat Oct 12 07:59:34 PDT 2024] Tato gained 1x Talking Witch Hat - for (x1) - Mesos from shop owner AIexis.
+---------------------------------
+
+[Sat Oct 12 07:59:36 PDT 2024] Tato gained 1x Determination Ring - for (x1) - Mesos from shop owner AIexis.
+---------------------------------
+
+[Sat Oct 12 07:59:36 PDT 2024] Tato gained 1x Genesis Pistol - for (x1) - Mesos from shop owner AIexis.
+---------------------------------
+
+[Sat Oct 12 07:59:37 PDT 2024] Tato gained 1x Arcane Umbra Spear - for (x1) - Mesos from shop owner AIexis.
+---------------------------------
+
+[Sat Oct 12 07:59:37 PDT 2024] Tato gained 1x Falcon Wing Sentinel Suit - for (x1) - Mesos from shop owner AIexis.
+---------------------------------
+
+[Sat Oct 12 07:59:38 PDT 2024] Tato gained 1x Stone of Eternal Life - for (x1) - Mesos from shop owner AIexis.
+---------------------------------
+
+[Sat Oct 12 07:59:39 PDT 2024] Tato gained 1x Reverse Grabbe - for (x1) - Mesos from shop owner AIexis.
+---------------------------------
+
+[Sat Oct 12 07:59:40 PDT 2024] Tato gained 1x Maple Kandayo - for (x1) - Mesos from shop owner AIexis.
+---------------------------------
+
+[Sat Oct 12 07:59:41 PDT 2024] Tato gained 1x Ipos Bloody Boots - for (x1) - Mesos from shop owner AIexis.
+---------------------------------
+
+[Sat Oct 12 07:59:42 PDT 2024] Tato gained 1x Timeless Bellocce - for (x1) - Mesos from shop owner AIexis.
+---------------------------------
+
+[Sat Oct 12 07:59:42 PDT 2024] Tato gained 1x Black Phoenix Shield - for (x1) - Mesos from shop owner AIexis.
+---------------------------------
+
+[Sat Oct 12 07:59:43 PDT 2024] Tato gained 1x Legendary Maple Starcrusher - for (x1) - Mesos from shop owner AIexis.
+---------------------------------
+
+[Sat Oct 12 07:59:44 PDT 2024] Tato gained 1x Sweetwater Belt - for (x1) - Mesos from shop owner AIexis.
+---------------------------------
+
+[Sat Oct 12 07:59:44 PDT 2024] Tato gained 1x Magnus's Pride - for (x1) - Mesos from shop owner AIexis.
+---------------------------------
+
+[Sat Oct 12 07:59:45 PDT 2024] Tato gained 1x Arcane Umbra Archer Suit - for (x1) - Mesos from shop owner AIexis.
+---------------------------------
+
+[Sat Oct 12 07:59:46 PDT 2024] Tato gained 1x Arcane Umbra Thief Hat - for (x1) - Mesos from shop owner AIexis.
+---------------------------------
+
+[Sat Oct 12 07:59:47 PDT 2024] Tato gained 1x Hilla's Rage - for (x1) - Mesos from shop owner AIexis.
+---------------------------------
+
+[Sat Oct 12 07:59:47 PDT 2024] Tato gained 1x AbsoLab Sureshot Bow - for (x1) - Mesos from shop owner AIexis.
+---------------------------------
+
+[Sat Oct 12 07:59:48 PDT 2024] Tato gained 1x AbsoLab Spellsong Staff - for (x1) - Mesos from shop owner AIexis.
+---------------------------------
+
+[Sat Oct 12 08:41:24 PDT 2024] UncleL33 gained 1x Source of Suffering - for (x300) - Donation Point from shop owner Silveraze.
+---------------------------------
+
+[Sat Oct 12 08:45:28 PDT 2024] Bobby gained 1x Aura Pendant - for (x150) - Donation Point from shop owner Cargo.
+---------------------------------
+
+[Sat Oct 12 08:46:44 PDT 2024] Bobby gained 1x Sweetwater Shoes - for (x100) - Donation Point from shop owner Cargo.
+---------------------------------
+

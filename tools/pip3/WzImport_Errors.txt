@@ -1,0 +1,31 @@
+----- Start of the error log. [5/20/2024 12:00:00 AM] unknown-----
+[Critical] : UOL got nexon'd at property: Mob7.wz\Mob7.wz\8920000.img\regen\0
+[Critical] : UOL got nexon'd at property: Mob7.wz\Mob7.wz\8880102.img\attack1\0
+[Critical] : UOL got nexon'd at property: Mob7.wz\Mob7.wz\8880102.img\attack1\1
+[Critical] : UOL got nexon'd at property: Mob7.wz\Mob7.wz\8880102.img\attack1\2
+[Critical] : UOL got nexon'd at property: Mob7.wz\Mob7.wz\8880102.img\attack1\3
+[Critical] : UOL got nexon'd at property: Mob7.wz\Mob7.wz\8880102.img\attack1\4
+[Critical] : UOL got nexon'd at property: Mob7.wz\Mob7.wz\8880102.img\attack1\5
+[Critical] : UOL got nexon'd at property: Mob7.wz\Mob7.wz\8880102.img\attack1\6
+[Critical] : UOL got nexon'd at property: Mob7.wz\Mob7.wz\8880102.img\attack1\7
+[Critical] : UOL got nexon'd at property: Mob7.wz\Mob7.wz\8880102.img\attack1\8
+[Critical] : UOL got nexon'd at property: Mob7.wz\Mob7.wz\8880102.img\attack1\9
+[Critical] : UOL got nexon'd at property: Mob7.wz\Mob7.wz\8880102.img\attack1\10
+[Critical] : UOL got nexon'd at property: Mob7.wz\Mob7.wz\8880102.img\attack1\11
+[Critical] : UOL got nexon'd at property: Mob7.wz\Mob7.wz\8880102.img\hit1\0
+[Critical] : UOL got nexon'd at property: Mob7.wz\Mob7.wz\8880102.img\stand\0
+[Critical] : UOL got nexon'd at property: Mob7.wz\Mob7.wz\8880102.img\stand\1
+[Critical] : UOL got nexon'd at property: Mob7.wz\Mob7.wz\8880102.img\stand\2
+[Critical] : UOL got nexon'd at property: Mob7.wz\Mob7.wz\8880102.img\stand\3
+[Critical] : UOL got nexon'd at property: Mob7.wz\Mob7.wz\8880102.img\stand\4
+[Critical] : UOL got nexon'd at property: Mob7.wz\Mob7.wz\8880102.img\stand\5
+[Critical] : UOL got nexon'd at property: Mob7.wz\Mob7.wz\8880102.img\stand\6
+[Critical] : UOL got nexon'd at property: Mob7.wz\Mob7.wz\8880102.img\stand\7
+[Critical] : UOL got nexon'd at property: Mob7.wz\Mob7.wz\8880102.img\stand\8
+[Critical] : UOL got nexon'd at property: Mob7.wz\Mob7.wz\8880102.img\stand\9
+[Critical] : UOL got nexon'd at property: Mob7.wz\Mob7.wz\8880102.img\stand\10
+[Critical] : UOL got nexon'd at property: Mob7.wz\Mob7.wz\8880102.img\stand\11
+
+----- Start of the error log. [5/20/2024 12:00:00 AM] unknown-----
+[Critical] : UOL got nexon'd at property: Mob8.wz\Mob8.wz\9402244.img\skill1\0
+

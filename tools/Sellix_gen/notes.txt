@@ -1,0 +1,2 @@
+CODE_AMOUNTS.put(new CodeInfo(item id, amount, price), # codes);
+Item id, amount, price, code-amounts

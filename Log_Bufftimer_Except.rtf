@@ -1,0 +1,33 @@
+
+------------------------ 2021-06-15 15:22:23 ------------------------
+java.lang.OutOfMemoryError: Java heap space
+
+------------------------ 2021-06-15 15:25:21 ------------------------
+java.lang.OutOfMemoryError: Java heap space
+
+------------------------ 2021-06-15 15:26:39 ------------------------
+java.lang.OutOfMemoryError: Java heap space
+
+------------------------ 2021-06-15 15:27:23 ------------------------
+java.lang.OutOfMemoryError: Java heap space
+
+------------------------ 2021-06-15 15:28:17 ------------------------
+java.lang.OutOfMemoryError: Java heap space
+
+------------------------ 2022-03-04 05:59:18 ------------------------
+java.util.ConcurrentModificationException
+	at java.base/java.util.LinkedHashMap$LinkedHashIterator.nextNode(LinkedHashMap.java:758)
+	at java.base/java.util.LinkedHashMap$LinkedValueIterator.next(LinkedHashMap.java:785)
+	at java.base/java.util.Collections$UnmodifiableCollection$1.next(Collections.java:1049)
+	at client.PlayerStats.recalcLocalStats(PlayerStats.java:448)
+	at client.PlayerStats.recalcLocalStats(PlayerStats.java:317)
+	at client.MapleCharacter.cancelPlayerBuffs(MapleCharacter.java:2729)
+	at client.MapleCharacter.cancelEffect(MapleCharacter.java:2654)
+	at server.MapleStatEffect$CancelEffectAction.run(MapleStatEffect.java:3562)
+	at server.Timer$LoggingSaveRunnable.run(Timer.java:198)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.base/java.lang.Thread.run(Thread.java:831)

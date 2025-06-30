@@ -1,0 +1,254 @@
+2049300 - EE
+2340000 - white scroll
+2049185	- Power Scroll 25%
+2049186	- Super Power Scroll 25%
+2049187	- Absolab Power Scroll 50%
+2049188	- Arcane Power Scroll 50%
+2049189	- Genesis Power Scroll 50%
+5220000 - gacha
+5220020 - gold gacha
+4031034 - life scroll
+4000313 - GML
+2430130 - skill booster
+2430131 - mini-levelup - ec
+4001895 - FOD
+4001760 - MPE
+4034613 - iron key
+4032521 - PLEX - VIP
+2000012 - stam pot
+2005107 - super g apple
+2049032 - 100% slate
+2049116	- Black Scroll 60%
+2049117	- Super Black Scroll 60%
+2049118	- Kaotic Black Scroll 60%
+2005000	- Frenzy Totem
+2005001	- Weakened Frenzy Totem
+2005002	- Raging Totem
+2005003	- Guardian Totem
+2005004	- Weakened Guardian Totem
+2005005	- Demon Totem
+2005007 - Shadow Totem
+2530000 - lucky day
+2120000 - pet food
+5052000 - supreme pot
+4000999 - spell trace
+5450200 - Infinity Pots
+
+
+curricenies
+4310009 - Yellow LK coin
+4310010 - LK coin
+4310015 - gallent
+4310018 - crusader
+4310020 - monster park coin
+4310028 - boss pq coin
+4310054 - dojo coin
+4310064 - green RA coin
+4310065 - Blue RA coin
+4310066 - unleased coin
+4310100 - commi demo
+4310101	- Casino Coin
+4310150 - reward coin - PQ rewards
+4310156 - abso lab
+4310211 - unity hearts
+4310218 - lucid coin
+4310241 - POP coin
+4310249 - will coin
+4310260 - genesis
+4310272 - glory
+4310500 - meso bag
+4310501 - MP
+4310502 - RP
+4310503 - VP
+4310504 - DP
+4310999 - Meso - shops
+
+Fishing
+3011000 - chair
+4430001 - basic 
+4430002 - super
+4430003 - master
+
+Anvils:
+2049900 - basic
+2049901 - gold
+
+Shops:
+5140000 - Meso
+5140001 - MPC
+5140002 - unused
+5140003 - Gallent shop
+5140004 - unused
+5140005 - unused
+5140006 - MP
+5140007 - DP
+
+Current cubes
+2583000 Mircale Cube
+2583001	Super Mircale Cube
+2583002	Rainbow Cube - single line
+2583003	Green Cube
+2583004	Neon Cube
+2583005	Super Neon Cube
+2583006	Red Cube
+2583007	Black Cube
+2583008	Purple Cube
+2583009	White Cube
+
+current flames
+2585000-5 - flames
+2586000-2 - soul gems
+
+2587000 - P-scroll (OLD: 2531000)
+2587001 - G-P-scroll
+
+4310600	Blue Super Star - zakum
+4310601	Orange Super Star - ht
+4310602	Pink Super Star - pb
+4310603	Green Super Star - empress
+4310604	Red Super Star - magnus,demain
+4310605	Yellow Super Star - lotus,lucid, will 
+4310610	Rainbow Super Star- black mage
+
+Pal Souls-Items:
+4200000	Pal Energy (Grass)
+4200001	Pal Energy (Earth)
+4200002	Pal Energy (Lightning)
+4200003	Pal Energy (Water)
+4200004	Pal Energy (Fire)
+4200005	Pal Energy (Ice)
+4200006	Pal Energy (Dragon)
+4200007	Pal Energy (Shadow)
+4200008	Pal Energy (Common)
+4200009	Pal Energy (Elite)
+4200010	Pal Energy (Supreme)
+4201000	Cybernetic Energy Upgrade
+4201001	Maple Pal Soul
+4202000	Poke Ball
+4202001	Great Ball
+4202002	Ultra Ball
+4202003	Master Ball
+4202004	Pearl Orb
+4202005	Lustrous Orb
+4202006	Toxic Orb
+4202007	Flame Orb
+4202008	Iron Orb
+4202009	Light Orb
+4202010	Smoke Orb
+4202011	Life Orb
+4202012	Gold Orb
+4202013	Plum Orb
+4202014	Master Stone
+4202015	Storage Pouch
+4202016	Hatching Pouch
+4202020	Safari Ticket
+4202021	Dungeon Ticket
+4202022	Scarlet Book
+4202023	Violet Book
+4202017	Energy Booster
+4202018	Energy Shield
+4202019	Energy Pendent
+4202024	Dark Scroll
+4202025	Scroll
+4202030	Leaf Stone
+4202031	Earth Stone
+4202032	Lightning Stone
+4202033	Water Stone
+4202034	Fire Stone
+4202035	Ice Stone
+4202036	Dragon Stone
+4202037	Dark Stone
+4202038	Moon Stone
+4202039	Shiny Stone
+4202040	Str UP
+4202041	Dex UP
+4202042	Int UP
+4202043	Luk UP
+4202044	Atk UP
+4202045	Def UP
+4202046	M-Atk UP
+4202047	M-Def UP
+4202050	Normal Shard
+4202051	Fire Shard
+4202052	Air Shard
+4202053	Electric Shard
+4202054	Leaf Shard
+4202055	Ice Shard
+4202056	Earth Shard
+4202057	Dragon Shard
+4202058	Ground Shard
+4202059	Water Shard
+4202060	Psychic Shard
+4202061	Grass Shard
+4202062	Rock Shard
+4202063	Poison Shard
+4202064	Ghost Shard
+4202065	Dark Shard
+4202066	Steel Shard
+4202067	Fairy Shard
+
+Dmaage skins
+4420001	- Damage Ticket
+4420002	- Damage Ticket (Common)
+4420003 - Damage Ticket (Un-Common)
+4420004	- Damage Ticket (Rare)
+4420005	- Damage Ticket (Epic)
+4420006	- Damage Ticket (Legendary)
+4420007	- Damage Ticket (Supreme)
+4420008	- Grow Star
+4420009	- Destiny Orb
+4420010	- Supreme Key
+4420020	- Damage Ticket (Halloween)
+4420021	- Damage Ticket (Chaos)
+
+4420011	Reward Ticket (Easy)
+4420012	Reward Ticket (Normal)
+4420013	Reward Ticket (Hard)
+4420014	Reward Ticket (Hell)
+4420015	Reward Ticket (Kaotic)
+
+QUest Reward:
+4310015 - gallent emblem
+
+SHOPS:
+5140000-5140007
+
+Blue Super Star - meso rate - zakum
+Orange Super Star - drop rate - ht
+Pink Super Star - all stats - pb
+Green Super Star - exp rate - empress
+Red Super Star - overpower - magnus,demain
+Yellow Super Star - item drop power - lotus,lucid, will 
+Rainbow Super Star - all powers - black mage
+
+
+OLD CUBES
+2473000 Mircale Cube - 5062002
+2473001	Super Mircale Cube - 5062006
+2473002	All Stat Cube
+2473003	Exp Cube
+2473004	Drop Cube
+2473005	Power Cube
+2473006	Meso Cube
+2473007	Damage Cube
+2473008	Boss Cube
+2473009	IED Cube
+
+Golden Gachapon Ticket that is used to obtain a random #cTier 5# Equip:
+\n#cOnly usable at Hong Niang in the Free Market
+
+
+\n#c10% Chance to destory equip on failure#
+
+Enhances #cscrolled equipment#.\nMax Enhancements: #c25#\nStat Range: #c+10-15#\nBoom Chance: #c2%#\n\n#cOnly usable at Cygnus Mentality in Free Market#
+
+
+
+Alters the equipment for better. Not available on Cash Items.\n\nStat Range: #c+4-8#\nSuccess rate:60%\n#c4% Chance to destory equip on failure#
+
+
+Alters the equipment for better. Not available on Cash Items.\n\nStat Range: #c+10-20#\nSuccess rate:25%\n#c10% Chance to destory equip on failure#
+
+
+
+Alters the equipment for better. Not available on Cash Items.\n\nStat Range: #c+75-150#\nSuccess rate:50%\n#c50% Chance to not consume slot on success#\n#c75% Chance to destory equip on failure#

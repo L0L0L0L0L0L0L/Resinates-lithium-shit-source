@@ -1,0 +1,795 @@
+[Tue Aug 06 03:55:08 PDT 2024] Tako gained 1100x Donation Point from Carti trade.
+---------------------------------
+
+[Tue Aug 06 06:32:03 PDT 2024] Tako gained 1x Steel Renault from Mofan trade.
+---------------------------------
+
+[Tue Aug 06 07:42:03 PDT 2024] bayang2 gained 1x Kandine from Mofan trade.
+---------------------------------
+
+[Tue Aug 06 07:42:17 PDT 2024] bayang2 gained 1x Kandine from Bean trade.
+---------------------------------
+
+[Tue Aug 06 07:42:36 PDT 2024] Mofan gained 1x Red Hinkel from Bean trade.
+---------------------------------
+
+[Tue Aug 06 08:06:35 PDT 2024] Cherry gained 1x Fraute from Tomato trade.
+---------------------------------
+
+[Tue Aug 06 08:06:35 PDT 2024] Cherry gained 1x Blue Neos from Tomato trade.
+---------------------------------
+
+[Tue Aug 06 08:06:35 PDT 2024] Cherry gained 1x Blue Neos Pants from Tomato trade.
+---------------------------------
+
+[Tue Aug 06 08:16:31 PDT 2024] Boss gained 1x Ruin Hammer from Tomato trade.
+---------------------------------
+
+[Tue Aug 06 08:41:46 PDT 2024] Boss gained 1x Blue Neos Pants from Tomato trade.
+---------------------------------
+
+[Tue Aug 06 08:41:46 PDT 2024] Boss gained 1x Blue Neos from Tomato trade.
+---------------------------------
+
+[Tue Aug 06 08:41:46 PDT 2024] Boss gained 1x Purple Lucida from Tomato trade.
+---------------------------------
+
+[Tue Aug 06 08:41:46 PDT 2024] Boss gained 1x Ruin Hammer from Tomato trade.
+---------------------------------
+
+[Tue Aug 06 08:41:46 PDT 2024] Tomato gained 1x Red Belly Duke from Boss trade.
+---------------------------------
+
+[Tue Aug 06 08:41:46 PDT 2024] Tomato gained 1x Red Belly Duke from Boss trade.
+---------------------------------
+
+[Tue Aug 06 08:44:04 PDT 2024] Tomato gained 1x Timeless Eradicator from Cherry trade.
+---------------------------------
+
+[Tue Aug 06 09:29:15 PDT 2024] GeoRando gained 1x Black Mamba from iGae trade.
+---------------------------------
+
+[Tue Aug 06 09:29:29 PDT 2024] Alexis gained 1x Steel Renault from GeoRando trade.
+---------------------------------
+
+[Tue Aug 06 09:51:03 PDT 2024] Alexis gained 1x Royal Von Leon Skipper Helm from GeoRando trade.
+---------------------------------
+
+[Tue Aug 06 09:54:27 PDT 2024] iGae gained 1x Fox Von Leon Bow from Alexis trade.
+---------------------------------
+
+[Tue Aug 06 09:54:27 PDT 2024] Alexis gained 1x Cora Von Leon Claw from iGae trade.
+---------------------------------
+
+[Tue Aug 06 09:54:27 PDT 2024] Alexis gained 1x Royal Von Leon Skipper Suit from iGae trade.
+---------------------------------
+
+[Tue Aug 06 09:54:27 PDT 2024] Alexis gained 1x Royal Von Leon Skipper Boots from iGae trade.
+---------------------------------
+
+[Tue Aug 06 09:56:09 PDT 2024] GeoRando gained 1x Royal Von Leon Guards from Alexis trade.
+---------------------------------
+
+[Tue Aug 06 09:57:31 PDT 2024] GeoRando gained 1x Royal Von Leon Chaser Suit from Alexis trade.
+---------------------------------
+
+[Tue Aug 06 10:03:32 PDT 2024] GeoRando gained 1x Royal Von Leon Chaser Helm from iGae trade.
+---------------------------------
+
+[Tue Aug 06 10:05:25 PDT 2024] iGae gained 1x Royal Von Leon Crossbow from GeoRando trade.
+---------------------------------
+
+[Tue Aug 06 10:05:25 PDT 2024] GeoRando gained 1x Royal Von Leon Guards from iGae trade.
+---------------------------------
+
+[Tue Aug 06 10:08:05 PDT 2024] Alexis gained 1x Cora Von Leon Claw from iGae trade.
+---------------------------------
+
+[Tue Aug 06 10:08:05 PDT 2024] Alexis gained 1x Royal Von Leon Skipper Hands from iGae trade.
+---------------------------------
+
+[Tue Aug 06 10:24:58 PDT 2024] Gold gained 1x Demon Totem from Carti trade.
+---------------------------------
+
+[Tue Aug 06 10:24:58 PDT 2024] Gold gained 550x Donation Point from Carti trade.
+---------------------------------
+
+[Tue Aug 06 10:33:19 PDT 2024] ENEOS gained 109x Energy Charge from IOS1 trade.
+---------------------------------
+
+[Tue Aug 06 10:33:19 PDT 2024] ENEOS gained 15x Vote Point from IOS1 trade.
+---------------------------------
+
+[Tue Aug 06 10:33:19 PDT 2024] ENEOS gained 5x Pal Energy (Supreme) from IOS1 trade.
+---------------------------------
+
+[Tue Aug 06 10:33:19 PDT 2024] ENEOS gained 30x Reward Ticket (Kaotic) from IOS1 trade.
+---------------------------------
+
+[Tue Aug 06 10:33:19 PDT 2024] ENEOS gained 10x Damage Ticket (Common) from IOS1 trade.
+---------------------------------
+
+[Tue Aug 06 10:33:19 PDT 2024] ENEOS gained 1x Damage Ticket (Epic) from IOS1 trade.
+---------------------------------
+
+[Tue Aug 06 10:33:19 PDT 2024] ENEOS gained 1x Damage Ticket (Un-Common) from IOS1 trade.
+---------------------------------
+
+[Tue Aug 06 10:33:19 PDT 2024] ENEOS gained 500x Grow Star from IOS1 trade.
+---------------------------------
+
+[Tue Aug 06 10:34:24 PDT 2024] ENEOS gained 20x Vote Point from IOS2 trade.
+---------------------------------
+
+[Tue Aug 06 10:34:24 PDT 2024] ENEOS gained 1x Damage Ticket (Epic) from IOS2 trade.
+---------------------------------
+
+[Tue Aug 06 10:34:24 PDT 2024] ENEOS gained 1x Damage Ticket (Legendary) from IOS2 trade.
+---------------------------------
+
+[Tue Aug 06 10:34:24 PDT 2024] ENEOS gained 500x Grow Star from IOS2 trade.
+---------------------------------
+
+[Tue Aug 06 10:34:24 PDT 2024] ENEOS gained 30x Reward Ticket (Kaotic) from IOS2 trade.
+---------------------------------
+
+[Tue Aug 06 10:34:24 PDT 2024] ENEOS gained 10x Damage Ticket (Common) from IOS2 trade.
+---------------------------------
+
+[Tue Aug 06 10:34:24 PDT 2024] ENEOS gained 5x Pal Energy (Supreme) from IOS2 trade.
+---------------------------------
+
+[Tue Aug 06 10:34:24 PDT 2024] ENEOS gained 109x Energy Charge from IOS2 trade.
+---------------------------------
+
+[Tue Aug 06 10:35:20 PDT 2024] ENEOS gained 109x Energy Charge from IOS3 trade.
+---------------------------------
+
+[Tue Aug 06 10:35:20 PDT 2024] ENEOS gained 1x Damage Ticket (Supreme) from IOS3 trade.
+---------------------------------
+
+[Tue Aug 06 10:35:20 PDT 2024] ENEOS gained 10x Vote Point from IOS3 trade.
+---------------------------------
+
+[Tue Aug 06 10:35:20 PDT 2024] ENEOS gained 500x Grow Star from IOS3 trade.
+---------------------------------
+
+[Tue Aug 06 10:35:20 PDT 2024] ENEOS gained 30x Reward Ticket (Kaotic) from IOS3 trade.
+---------------------------------
+
+[Tue Aug 06 10:35:20 PDT 2024] ENEOS gained 11x Damage Ticket (Common) from IOS3 trade.
+---------------------------------
+
+[Tue Aug 06 10:35:20 PDT 2024] ENEOS gained 5x Pal Energy (Supreme) from IOS3 trade.
+---------------------------------
+
+[Tue Aug 06 10:36:20 PDT 2024] ENEOS gained 1x Damage Ticket (Supreme) from IOS4 trade.
+---------------------------------
+
+[Tue Aug 06 10:36:20 PDT 2024] ENEOS gained 1x Damage Ticket (Epic) from IOS4 trade.
+---------------------------------
+
+[Tue Aug 06 10:36:20 PDT 2024] ENEOS gained 500x Grow Star from IOS4 trade.
+---------------------------------
+
+[Tue Aug 06 10:36:20 PDT 2024] ENEOS gained 30x Reward Ticket (Kaotic) from IOS4 trade.
+---------------------------------
+
+[Tue Aug 06 10:36:20 PDT 2024] ENEOS gained 10x Damage Ticket (Common) from IOS4 trade.
+---------------------------------
+
+[Tue Aug 06 10:36:20 PDT 2024] ENEOS gained 5x Pal Energy (Supreme) from IOS4 trade.
+---------------------------------
+
+[Tue Aug 06 10:36:20 PDT 2024] ENEOS gained 15x Vote Point from IOS4 trade.
+---------------------------------
+
+[Tue Aug 06 10:36:20 PDT 2024] ENEOS gained 109x Energy Charge from IOS4 trade.
+---------------------------------
+
+[Tue Aug 06 10:37:13 PDT 2024] ENEOS gained 109x Energy Charge from IOS5 trade.
+---------------------------------
+
+[Tue Aug 06 10:37:13 PDT 2024] ENEOS gained 5x Vote Point from IOS5 trade.
+---------------------------------
+
+[Tue Aug 06 10:37:13 PDT 2024] ENEOS gained 1x Damage Ticket (Legendary) from IOS5 trade.
+---------------------------------
+
+[Tue Aug 06 10:37:13 PDT 2024] ENEOS gained 1x Damage Ticket (Epic) from IOS5 trade.
+---------------------------------
+
+[Tue Aug 06 10:37:13 PDT 2024] ENEOS gained 500x Grow Star from IOS5 trade.
+---------------------------------
+
+[Tue Aug 06 10:37:13 PDT 2024] ENEOS gained 30x Reward Ticket (Kaotic) from IOS5 trade.
+---------------------------------
+
+[Tue Aug 06 10:37:13 PDT 2024] ENEOS gained 5x Pal Energy (Supreme) from IOS5 trade.
+---------------------------------
+
+[Tue Aug 06 10:37:13 PDT 2024] ENEOS gained 10x Damage Ticket (Common) from IOS5 trade.
+---------------------------------
+
+[Tue Aug 06 10:37:57 PDT 2024] ENEOS gained 15x Vote Point from IOS6 trade.
+---------------------------------
+
+[Tue Aug 06 10:37:57 PDT 2024] ENEOS gained 2x Damage Ticket (Un-Common) from IOS6 trade.
+---------------------------------
+
+[Tue Aug 06 10:37:57 PDT 2024] ENEOS gained 500x Grow Star from IOS6 trade.
+---------------------------------
+
+[Tue Aug 06 10:37:57 PDT 2024] ENEOS gained 30x Reward Ticket (Kaotic) from IOS6 trade.
+---------------------------------
+
+[Tue Aug 06 10:37:57 PDT 2024] ENEOS gained 10x Damage Ticket (Common) from IOS6 trade.
+---------------------------------
+
+[Tue Aug 06 10:37:57 PDT 2024] ENEOS gained 5x Pal Energy (Supreme) from IOS6 trade.
+---------------------------------
+
+[Tue Aug 06 10:37:57 PDT 2024] ENEOS gained 109x Energy Charge from IOS6 trade.
+---------------------------------
+
+[Tue Aug 06 10:38:48 PDT 2024] ENEOS gained 109x Energy Charge from IOS7 trade.
+---------------------------------
+
+[Tue Aug 06 10:38:48 PDT 2024] ENEOS gained 20x Vote Point from IOS7 trade.
+---------------------------------
+
+[Tue Aug 06 10:38:48 PDT 2024] ENEOS gained 1x Damage Ticket (Supreme) from IOS7 trade.
+---------------------------------
+
+[Tue Aug 06 10:38:48 PDT 2024] ENEOS gained 1x Damage Ticket (Rare) from IOS7 trade.
+---------------------------------
+
+[Tue Aug 06 10:38:48 PDT 2024] ENEOS gained 500x Grow Star from IOS7 trade.
+---------------------------------
+
+[Tue Aug 06 10:38:48 PDT 2024] ENEOS gained 30x Reward Ticket (Kaotic) from IOS7 trade.
+---------------------------------
+
+[Tue Aug 06 10:38:48 PDT 2024] ENEOS gained 10x Damage Ticket (Common) from IOS7 trade.
+---------------------------------
+
+[Tue Aug 06 10:38:48 PDT 2024] ENEOS gained 5x Pal Energy (Supreme) from IOS7 trade.
+---------------------------------
+
+[Tue Aug 06 10:39:32 PDT 2024] ENEOS gained 109x Energy Charge from IOS8 trade.
+---------------------------------
+
+[Tue Aug 06 10:39:32 PDT 2024] ENEOS gained 1x Damage Ticket (Rare) from IOS8 trade.
+---------------------------------
+
+[Tue Aug 06 10:39:32 PDT 2024] ENEOS gained 1x Damage Ticket (Legendary) from IOS8 trade.
+---------------------------------
+
+[Tue Aug 06 10:39:32 PDT 2024] ENEOS gained 500x Grow Star from IOS8 trade.
+---------------------------------
+
+[Tue Aug 06 10:39:32 PDT 2024] ENEOS gained 30x Reward Ticket (Kaotic) from IOS8 trade.
+---------------------------------
+
+[Tue Aug 06 10:39:32 PDT 2024] ENEOS gained 10x Damage Ticket (Common) from IOS8 trade.
+---------------------------------
+
+[Tue Aug 06 10:39:32 PDT 2024] ENEOS gained 5x Pal Energy (Supreme) from IOS8 trade.
+---------------------------------
+
+[Tue Aug 06 10:39:32 PDT 2024] ENEOS gained 15x Vote Point from IOS8 trade.
+---------------------------------
+
+[Tue Aug 06 10:40:19 PDT 2024] ENEOS gained 15x Vote Point from IOS9 trade.
+---------------------------------
+
+[Tue Aug 06 10:40:19 PDT 2024] ENEOS gained 1x Damage Ticket (Rare) from IOS9 trade.
+---------------------------------
+
+[Tue Aug 06 10:40:19 PDT 2024] ENEOS gained 250x Grow Star from IOS9 trade.
+---------------------------------
+
+[Tue Aug 06 10:40:19 PDT 2024] ENEOS gained 20x Reward Ticket (Kaotic) from IOS9 trade.
+---------------------------------
+
+[Tue Aug 06 10:40:19 PDT 2024] ENEOS gained 10x Damage Ticket (Common) from IOS9 trade.
+---------------------------------
+
+[Tue Aug 06 10:40:19 PDT 2024] ENEOS gained 5x Pal Energy (Supreme) from IOS9 trade.
+---------------------------------
+
+[Tue Aug 06 10:40:19 PDT 2024] ENEOS gained 109x Energy Charge from IOS9 trade.
+---------------------------------
+
+[Tue Aug 06 10:41:00 PDT 2024] ENEOS gained 109x Energy Charge from IOS10 trade.
+---------------------------------
+
+[Tue Aug 06 10:41:00 PDT 2024] ENEOS gained 20x Vote Point from IOS10 trade.
+---------------------------------
+
+[Tue Aug 06 10:41:00 PDT 2024] ENEOS gained 1x Damage Ticket (Rare) from IOS10 trade.
+---------------------------------
+
+[Tue Aug 06 10:41:00 PDT 2024] ENEOS gained 250x Grow Star from IOS10 trade.
+---------------------------------
+
+[Tue Aug 06 10:41:00 PDT 2024] ENEOS gained 20x Reward Ticket (Kaotic) from IOS10 trade.
+---------------------------------
+
+[Tue Aug 06 10:41:00 PDT 2024] ENEOS gained 10x Damage Ticket (Common) from IOS10 trade.
+---------------------------------
+
+[Tue Aug 06 10:41:00 PDT 2024] ENEOS gained 5x Pal Energy (Supreme) from IOS10 trade.
+---------------------------------
+
+[Tue Aug 06 10:41:44 PDT 2024] ENEOS gained 15x Vote Point from IOS11 trade.
+---------------------------------
+
+[Tue Aug 06 10:41:44 PDT 2024] ENEOS gained 250x Grow Star from IOS11 trade.
+---------------------------------
+
+[Tue Aug 06 10:41:44 PDT 2024] ENEOS gained 20x Reward Ticket (Kaotic) from IOS11 trade.
+---------------------------------
+
+[Tue Aug 06 10:41:44 PDT 2024] ENEOS gained 11x Damage Ticket (Common) from IOS11 trade.
+---------------------------------
+
+[Tue Aug 06 10:41:44 PDT 2024] ENEOS gained 5x Pal Energy (Supreme) from IOS11 trade.
+---------------------------------
+
+[Tue Aug 06 10:41:44 PDT 2024] ENEOS gained 109x Energy Charge from IOS11 trade.
+---------------------------------
+
+[Tue Aug 06 10:42:31 PDT 2024] ENEOS gained 109x Energy Charge from IOS12 trade.
+---------------------------------
+
+[Tue Aug 06 10:42:31 PDT 2024] ENEOS gained 20x Vote Point from IOS12 trade.
+---------------------------------
+
+[Tue Aug 06 10:42:31 PDT 2024] ENEOS gained 250x Grow Star from IOS12 trade.
+---------------------------------
+
+[Tue Aug 06 10:42:31 PDT 2024] ENEOS gained 1x Damage Ticket (Un-Common) from IOS12 trade.
+---------------------------------
+
+[Tue Aug 06 10:42:31 PDT 2024] ENEOS gained 20x Reward Ticket (Kaotic) from IOS12 trade.
+---------------------------------
+
+[Tue Aug 06 10:42:31 PDT 2024] ENEOS gained 10x Damage Ticket (Common) from IOS12 trade.
+---------------------------------
+
+[Tue Aug 06 10:42:31 PDT 2024] ENEOS gained 5x Pal Energy (Supreme) from IOS12 trade.
+---------------------------------
+
+[Tue Aug 06 10:43:26 PDT 2024] ENEOS gained 20x Vote Point from IOS13 trade.
+---------------------------------
+
+[Tue Aug 06 10:43:26 PDT 2024] ENEOS gained 1x Damage Ticket (Rare) from IOS13 trade.
+---------------------------------
+
+[Tue Aug 06 10:43:26 PDT 2024] ENEOS gained 250x Grow Star from IOS13 trade.
+---------------------------------
+
+[Tue Aug 06 10:43:26 PDT 2024] ENEOS gained 20x Reward Ticket (Kaotic) from IOS13 trade.
+---------------------------------
+
+[Tue Aug 06 10:43:26 PDT 2024] ENEOS gained 10x Damage Ticket (Common) from IOS13 trade.
+---------------------------------
+
+[Tue Aug 06 10:43:26 PDT 2024] ENEOS gained 5x Pal Energy (Supreme) from IOS13 trade.
+---------------------------------
+
+[Tue Aug 06 10:44:11 PDT 2024] ENEOS gained 20x Vote Point from IOS14 trade.
+---------------------------------
+
+[Tue Aug 06 10:44:11 PDT 2024] ENEOS gained 1x Damage Ticket (Legendary) from IOS14 trade.
+---------------------------------
+
+[Tue Aug 06 10:44:11 PDT 2024] ENEOS gained 250x Grow Star from IOS14 trade.
+---------------------------------
+
+[Tue Aug 06 10:44:11 PDT 2024] ENEOS gained 20x Reward Ticket (Kaotic) from IOS14 trade.
+---------------------------------
+
+[Tue Aug 06 10:44:11 PDT 2024] ENEOS gained 10x Damage Ticket (Common) from IOS14 trade.
+---------------------------------
+
+[Tue Aug 06 10:44:11 PDT 2024] ENEOS gained 5x Pal Energy (Supreme) from IOS14 trade.
+---------------------------------
+
+[Tue Aug 06 10:44:11 PDT 2024] ENEOS gained 109x Energy Charge from IOS14 trade.
+---------------------------------
+
+[Tue Aug 06 10:44:59 PDT 2024] ENEOS gained 109x Energy Charge from IOS15 trade.
+---------------------------------
+
+[Tue Aug 06 10:44:59 PDT 2024] ENEOS gained 20x Reward Ticket (Kaotic) from IOS15 trade.
+---------------------------------
+
+[Tue Aug 06 10:44:59 PDT 2024] ENEOS gained 10x Damage Ticket (Common) from IOS15 trade.
+---------------------------------
+
+[Tue Aug 06 10:44:59 PDT 2024] ENEOS gained 250x Grow Star from IOS15 trade.
+---------------------------------
+
+[Tue Aug 06 10:44:59 PDT 2024] ENEOS gained 10x Vote Point from IOS15 trade.
+---------------------------------
+
+[Tue Aug 06 10:44:59 PDT 2024] ENEOS gained 1x Damage Ticket (Epic) from IOS15 trade.
+---------------------------------
+
+[Tue Aug 06 10:44:59 PDT 2024] ENEOS gained 5x Pal Energy (Supreme) from IOS15 trade.
+---------------------------------
+
+[Tue Aug 06 10:51:45 PDT 2024] Tomato gained 1x Zakum Helmet (3) from Boss trade.
+---------------------------------
+
+[Tue Aug 06 10:51:45 PDT 2024] Tomato gained 1x Enraged Zakum Cape from Boss trade.
+---------------------------------
+
+[Tue Aug 06 10:55:33 PDT 2024] ENEOS gained 109x Energy Charge from IOS16 trade.
+---------------------------------
+
+[Tue Aug 06 10:55:33 PDT 2024] ENEOS gained 20x Vote Point from IOS16 trade.
+---------------------------------
+
+[Tue Aug 06 10:55:33 PDT 2024] ENEOS gained 250x Grow Star from IOS16 trade.
+---------------------------------
+
+[Tue Aug 06 10:55:33 PDT 2024] ENEOS gained 20x Reward Ticket (Kaotic) from IOS16 trade.
+---------------------------------
+
+[Tue Aug 06 10:55:33 PDT 2024] ENEOS gained 1x Damage Ticket (Un-Common) from IOS16 trade.
+---------------------------------
+
+[Tue Aug 06 10:55:33 PDT 2024] ENEOS gained 10x Damage Ticket (Common) from IOS16 trade.
+---------------------------------
+
+[Tue Aug 06 10:55:33 PDT 2024] ENEOS gained 5x Pal Energy (Supreme) from IOS16 trade.
+---------------------------------
+
+[Tue Aug 06 11:36:34 PDT 2024] ChaeWon gained 1000x Donation Point from WhiteFoxx trade.
+---------------------------------
+
+[Tue Aug 06 11:39:50 PDT 2024] WhiteFoxx gained 1x Aura Ring from ChaeWon trade.
+---------------------------------
+
+[Tue Aug 06 11:46:53 PDT 2024] ChaeWon gained 1x Aura Ring from WhiteFoxx trade.
+---------------------------------
+
+[Tue Aug 06 11:56:56 PDT 2024] iGae gained 1x Ipos Bloody Gear from ArashiYuki trade.
+---------------------------------
+
+[Tue Aug 06 11:56:56 PDT 2024] ArashiYuki gained 1x Elemental Wand 8 from iGae trade.
+---------------------------------
+
+[Tue Aug 06 12:04:15 PDT 2024] iGae gained 1x Falcon Wing Heavy Crossbow from ArashiYuki trade.
+---------------------------------
+
+[Tue Aug 06 12:07:06 PDT 2024] Alexis gained 1x Shark Tooth Skipper Coat from iGae trade.
+---------------------------------
+
+[Tue Aug 06 12:07:06 PDT 2024] Alexis gained 1x Vepar Bloody Gear from iGae trade.
+---------------------------------
+
+[Tue Aug 06 12:07:06 PDT 2024] Alexis gained 1x Cora Von Leon Claw from iGae trade.
+---------------------------------
+
+[Tue Aug 06 12:08:39 PDT 2024] Alexis gained 1x Vepar Bloody Arm Cannon from ArashiYuki trade.
+---------------------------------
+
+[Tue Aug 06 12:08:39 PDT 2024] ArashiYuki gained 1x Dragon Tail Mage Sallet from Alexis trade.
+---------------------------------
+
+[Tue Aug 06 12:08:39 PDT 2024] ArashiYuki gained 1x Dragon Tail Mage Shoes from Alexis trade.
+---------------------------------
+
+[Tue Aug 06 12:08:39 PDT 2024] ArashiYuki gained 1x Dragon Tail Mage Shoulder from Alexis trade.
+---------------------------------
+
+[Tue Aug 06 12:08:39 PDT 2024] ArashiYuki gained 1x Elemental Staff 6 from Alexis trade.
+---------------------------------
+
+[Tue Aug 06 12:08:39 PDT 2024] ArashiYuki gained 1x Dragon Tail Mage Shoulder from Alexis trade.
+---------------------------------
+
+[Tue Aug 06 12:13:22 PDT 2024] Alexis gained 1x Vepar Bloody Boots from ArashiYuki trade.
+---------------------------------
+
+[Tue Aug 06 12:13:47 PDT 2024] Alexis gained 1x Vepar Bloody Mail from iGae trade.
+---------------------------------
+
+[Tue Aug 06 12:13:47 PDT 2024] iGae gained 1x Falcon Wing Composite Bow from Alexis trade.
+---------------------------------
+
+[Tue Aug 06 12:13:47 PDT 2024] iGae gained 1x Falcon Wing Sentinel Cap from Alexis trade.
+---------------------------------
+
+[Tue Aug 06 12:13:47 PDT 2024] iGae gained 1x Ipos Bloody Boots from Alexis trade.
+---------------------------------
+
+[Tue Aug 06 12:14:42 PDT 2024] Alexis gained 1x Vepar Bloody Hands from ArashiYuki trade.
+---------------------------------
+
+[Tue Aug 06 12:18:22 PDT 2024] ChaeWon gained 1x Tyrant Warrior Overall from WhiteFoxx trade.
+---------------------------------
+
+[Tue Aug 06 12:18:44 PDT 2024] Alexis gained 1x Shark Tooth Skipper Coat from ArashiYuki trade.
+---------------------------------
+
+[Tue Aug 06 12:19:28 PDT 2024] iGae gained 1x Falcon Wing Composite Bow from ArashiYuki trade.
+---------------------------------
+
+[Tue Aug 06 12:21:31 PDT 2024] ChaeWon gained 1x Tyrant Warrior Helmet from WhiteFoxx trade.
+---------------------------------
+
+[Tue Aug 06 12:21:41 PDT 2024] GeoRando gained 1x Raven Horn Metal Fist from iGae trade.
+---------------------------------
+
+[Tue Aug 06 12:21:41 PDT 2024] GeoRando gained 1x Halphas Bloody Gear from iGae trade.
+---------------------------------
+
+[Tue Aug 06 12:22:04 PDT 2024] Alexis gained 1x Vepar Bloody Cape from iGae trade.
+---------------------------------
+
+[Tue Aug 06 12:22:04 PDT 2024] iGae gained 1x Ipos Bloody Longbow from Alexis trade.
+---------------------------------
+
+[Tue Aug 06 12:22:55 PDT 2024] iGae gained 1x Ipos Bloody Gear from ArashiYuki trade.
+---------------------------------
+
+[Tue Aug 06 12:25:55 PDT 2024] Alexis gained 1x Vepar Bloody Boots from ArashiYuki trade.
+---------------------------------
+
+[Tue Aug 06 12:26:43 PDT 2024] iGae gained 1x Falcon Wing Sentinel Gloves from ArashiYuki trade.
+---------------------------------
+
+[Tue Aug 06 12:29:14 PDT 2024] Alexis gained 1x Shark Tooth Skipper Shoulder from iGae trade.
+---------------------------------
+
+[Tue Aug 06 12:29:14 PDT 2024] iGae gained 1x Ipos Bloody Longbow from Alexis trade.
+---------------------------------
+
+[Tue Aug 06 12:29:14 PDT 2024] iGae gained 1x Ipos Bloody Cape from Alexis trade.
+---------------------------------
+
+[Tue Aug 06 12:29:14 PDT 2024] iGae gained 1x Falcon Wing Sentinel Shoulder from Alexis trade.
+---------------------------------
+
+[Tue Aug 06 12:36:29 PDT 2024] Cherry gained 1x Gold Ancient Shield from Tomato trade.
+---------------------------------
+
+[Tue Aug 06 12:57:26 PDT 2024] GeoRando gained 1x Eagle Eye Assassin Shirt from ArashiYuki trade.
+---------------------------------
+
+[Tue Aug 06 12:57:26 PDT 2024] GeoRando gained 1x Fafnir Damascus from ArashiYuki trade.
+---------------------------------
+
+[Tue Aug 06 12:57:26 PDT 2024] ArashiYuki gained 1x Eligos Bloody Boots from GeoRando trade.
+---------------------------------
+
+[Tue Aug 06 12:57:26 PDT 2024] ArashiYuki gained 1x Eligos Bloody Rod from GeoRando trade.
+---------------------------------
+
+[Tue Aug 06 12:57:26 PDT 2024] ArashiYuki gained 1x Fafnir Mana Crown from GeoRando trade.
+---------------------------------
+
+[Tue Aug 06 12:57:26 PDT 2024] ArashiYuki gained 1x Dragon Tail Mage Gloves from GeoRando trade.
+---------------------------------
+
+[Tue Aug 06 12:57:26 PDT 2024] ArashiYuki gained 1x Eligos Bloody Wand from GeoRando trade.
+---------------------------------
+
+[Tue Aug 06 12:57:48 PDT 2024] iGae gained 1x Ipos Bloody Boots from GeoRando trade.
+---------------------------------
+
+[Tue Aug 06 12:57:48 PDT 2024] GeoRando gained 1x Trixter Assassin Pants from iGae trade.
+---------------------------------
+
+[Tue Aug 06 12:57:48 PDT 2024] GeoRando gained 1x Trixter Assassin Pants from iGae trade.
+---------------------------------
+
+[Tue Aug 06 13:12:38 PDT 2024] Alexis gained 1x Trixter Wanderer Pants from ArashiYuki trade.
+---------------------------------
+
+[Tue Aug 06 13:12:38 PDT 2024] Alexis gained 1x Vepar Bloody Hands from ArashiYuki trade.
+---------------------------------
+
+[Tue Aug 06 13:13:26 PDT 2024] Alexis gained 1x Eagle Eye Wanderer Coat from ArashiYuki trade.
+---------------------------------
+
+[Tue Aug 06 13:13:26 PDT 2024] Alexis gained 1x Trixter Wanderer Pants from ArashiYuki trade.
+---------------------------------
+
+[Tue Aug 06 13:17:34 PDT 2024] GeoRando gained 1x Eagle Eye Assassin Shirt from ArashiYuki trade.
+---------------------------------
+
+[Tue Aug 06 13:17:34 PDT 2024] GeoRando gained 1x Trixter Assassin Pants from ArashiYuki trade.
+---------------------------------
+
+[Tue Aug 06 13:17:34 PDT 2024] GeoRando gained 1x Fafnir Risk Holder from ArashiYuki trade.
+---------------------------------
+
+[Tue Aug 06 13:17:34 PDT 2024] GeoRando gained 1x Fafnir Risk Holder from ArashiYuki trade.
+---------------------------------
+
+[Tue Aug 06 13:17:34 PDT 2024] GeoRando gained 1x Fafnir Risk Holder from ArashiYuki trade.
+---------------------------------
+
+[Tue Aug 06 13:25:11 PDT 2024] Alexis gained 1x Chaos Pierre Hat from ArashiYuki trade.
+---------------------------------
+
+[Tue Aug 06 15:33:27 PDT 2024] Experiment gained 1x Blue Arzuna from Random trade.
+---------------------------------
+
+[Tue Aug 06 16:35:58 PDT 2024] Experiment gained 1x Maple Crow from WhiteFoxx trade.
+---------------------------------
+
+[Tue Aug 06 18:10:15 PDT 2024] Yuki gained 30000x Donation Point from Carti trade.
+---------------------------------
+
+[Tue Aug 06 18:27:26 PDT 2024] ENEOS gained 10x Reward Ticket (Kaotic) from IOS1 trade.
+---------------------------------
+
+[Tue Aug 06 18:27:26 PDT 2024] ENEOS gained 250x Grow Star from IOS1 trade.
+---------------------------------
+
+[Tue Aug 06 18:27:26 PDT 2024] ENEOS gained 1x Damage Ticket (Un-Common) from IOS1 trade.
+---------------------------------
+
+[Tue Aug 06 18:28:17 PDT 2024] ENEOS gained 10x Reward Ticket (Kaotic) from IOS2 trade.
+---------------------------------
+
+[Tue Aug 06 18:28:17 PDT 2024] ENEOS gained 250x Grow Star from IOS2 trade.
+---------------------------------
+
+[Tue Aug 06 18:28:17 PDT 2024] ENEOS gained 1x Damage Ticket (Epic) from IOS2 trade.
+---------------------------------
+
+[Tue Aug 06 18:29:06 PDT 2024] ENEOS gained 10x Reward Ticket (Kaotic) from IOS3 trade.
+---------------------------------
+
+[Tue Aug 06 18:29:06 PDT 2024] ENEOS gained 250x Grow Star from IOS3 trade.
+---------------------------------
+
+[Tue Aug 06 18:29:06 PDT 2024] ENEOS gained 1x Damage Ticket (Un-Common) from IOS3 trade.
+---------------------------------
+
+[Tue Aug 06 18:29:47 PDT 2024] ENEOS gained 10x Reward Ticket (Kaotic) from IOS4 trade.
+---------------------------------
+
+[Tue Aug 06 18:29:47 PDT 2024] ENEOS gained 250x Grow Star from IOS4 trade.
+---------------------------------
+
+[Tue Aug 06 18:29:47 PDT 2024] ENEOS gained 1x Damage Ticket (Epic) from IOS4 trade.
+---------------------------------
+
+[Tue Aug 06 18:30:26 PDT 2024] ENEOS gained 10x Reward Ticket (Kaotic) from IOS5 trade.
+---------------------------------
+
+[Tue Aug 06 18:30:26 PDT 2024] ENEOS gained 250x Grow Star from IOS5 trade.
+---------------------------------
+
+[Tue Aug 06 18:30:26 PDT 2024] ENEOS gained 1x Damage Ticket (Un-Common) from IOS5 trade.
+---------------------------------
+
+[Tue Aug 06 18:31:11 PDT 2024] ENEOS gained 10x Reward Ticket (Kaotic) from IOS6 trade.
+---------------------------------
+
+[Tue Aug 06 18:31:11 PDT 2024] ENEOS gained 250x Grow Star from IOS6 trade.
+---------------------------------
+
+[Tue Aug 06 18:31:11 PDT 2024] ENEOS gained 1x Damage Ticket (Epic) from IOS6 trade.
+---------------------------------
+
+[Tue Aug 06 18:31:55 PDT 2024] ENEOS gained 10x Reward Ticket (Kaotic) from IOS7 trade.
+---------------------------------
+
+[Tue Aug 06 18:31:55 PDT 2024] ENEOS gained 250x Grow Star from IOS7 trade.
+---------------------------------
+
+[Tue Aug 06 18:31:55 PDT 2024] ENEOS gained 1x Damage Ticket (Un-Common) from IOS7 trade.
+---------------------------------
+
+[Tue Aug 06 18:32:42 PDT 2024] ENEOS gained 10x Reward Ticket (Kaotic) from IOS8 trade.
+---------------------------------
+
+[Tue Aug 06 18:32:42 PDT 2024] ENEOS gained 250x Grow Star from IOS8 trade.
+---------------------------------
+
+[Tue Aug 06 18:32:42 PDT 2024] ENEOS gained 1x Damage Ticket (Rare) from IOS8 trade.
+---------------------------------
+
+[Tue Aug 06 18:33:22 PDT 2024] ENEOS gained 10x Reward Ticket (Kaotic) from IOS9 trade.
+---------------------------------
+
+[Tue Aug 06 18:33:22 PDT 2024] ENEOS gained 250x Grow Star from IOS9 trade.
+---------------------------------
+
+[Tue Aug 06 18:33:22 PDT 2024] ENEOS gained 1x Damage Ticket (Supreme) from IOS9 trade.
+---------------------------------
+
+[Tue Aug 06 18:33:56 PDT 2024] ENEOS gained 1x Damage Ticket (Supreme) from IOS10 trade.
+---------------------------------
+
+[Tue Aug 06 18:33:56 PDT 2024] ENEOS gained 250x Grow Star from IOS10 trade.
+---------------------------------
+
+[Tue Aug 06 18:33:56 PDT 2024] ENEOS gained 10x Reward Ticket (Kaotic) from IOS10 trade.
+---------------------------------
+
+[Tue Aug 06 18:34:46 PDT 2024] ENEOS gained 10x Reward Ticket (Kaotic) from IOS11 trade.
+---------------------------------
+
+[Tue Aug 06 18:34:46 PDT 2024] ENEOS gained 250x Grow Star from IOS11 trade.
+---------------------------------
+
+[Tue Aug 06 18:34:46 PDT 2024] ENEOS gained 1x Damage Ticket (Rare) from IOS11 trade.
+---------------------------------
+
+[Tue Aug 06 18:35:23 PDT 2024] ENEOS gained 10x Reward Ticket (Kaotic) from IOS12 trade.
+---------------------------------
+
+[Tue Aug 06 18:35:23 PDT 2024] ENEOS gained 1x Damage Ticket (Legendary) from IOS12 trade.
+---------------------------------
+
+[Tue Aug 06 18:35:23 PDT 2024] ENEOS gained 250x Grow Star from IOS12 trade.
+---------------------------------
+
+[Tue Aug 06 18:36:02 PDT 2024] ENEOS gained 10x Reward Ticket (Kaotic) from IOS13 trade.
+---------------------------------
+
+[Tue Aug 06 18:36:02 PDT 2024] ENEOS gained 250x Grow Star from IOS13 trade.
+---------------------------------
+
+[Tue Aug 06 18:36:02 PDT 2024] ENEOS gained 1x Damage Ticket (Common) from IOS13 trade.
+---------------------------------
+
+[Tue Aug 06 18:36:38 PDT 2024] ENEOS gained 10x Reward Ticket (Kaotic) from IOS14 trade.
+---------------------------------
+
+[Tue Aug 06 18:36:38 PDT 2024] ENEOS gained 250x Grow Star from IOS14 trade.
+---------------------------------
+
+[Tue Aug 06 18:36:38 PDT 2024] ENEOS gained 1x Damage Ticket (Epic) from IOS14 trade.
+---------------------------------
+
+[Tue Aug 06 18:37:10 PDT 2024] ENEOS gained 10x Reward Ticket (Kaotic) from IOS15 trade.
+---------------------------------
+
+[Tue Aug 06 18:37:10 PDT 2024] ENEOS gained 250x Grow Star from IOS15 trade.
+---------------------------------
+
+[Tue Aug 06 18:37:10 PDT 2024] ENEOS gained 1x Damage Ticket (Un-Common) from IOS15 trade.
+---------------------------------
+
+[Tue Aug 06 18:37:47 PDT 2024] ENEOS gained 10x Reward Ticket (Kaotic) from IOS16 trade.
+---------------------------------
+
+[Tue Aug 06 18:37:47 PDT 2024] ENEOS gained 250x Grow Star from IOS16 trade.
+---------------------------------
+
+[Tue Aug 06 18:37:47 PDT 2024] ENEOS gained 1x Damage Ticket (Un-Common) from IOS16 trade.
+---------------------------------
+
+[Tue Aug 06 20:53:19 PDT 2024] WhiteFoxx gained 1x Arcane Umbra Archer Suit from Cardi trade.
+---------------------------------
+
+[Tue Aug 06 20:54:19 PDT 2024] Cardi gained 250x Donation Point from WhiteFoxx trade.
+---------------------------------
+
+[Tue Aug 06 20:55:13 PDT 2024] Maee gained 1x Fafnir Wind Chaser from Bean trade.
+---------------------------------
+
+[Tue Aug 06 20:57:50 PDT 2024] Bean gained 1x Fafnir Wind Chaser from Maee trade.
+---------------------------------
+
+[Tue Aug 06 21:01:45 PDT 2024] Maee gained 1x White Nisrock from Bean trade.
+---------------------------------
+
+[Tue Aug 06 21:11:40 PDT 2024] Maee gained 1x Timeless Presto from Bean trade.
+---------------------------------
+
+[Tue Aug 06 21:19:32 PDT 2024] Maee gained 1x Royal Von Leon Dual Bowguns from Bean trade.
+---------------------------------
+

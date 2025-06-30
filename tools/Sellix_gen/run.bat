@@ -1,0 +1,1 @@
+C:\PROGRA~1\java\jdk-19\bin\java.exe KaoticCodeGenerator.java

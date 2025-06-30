@@ -1,0 +1,195 @@
+HEX WORKSHOP:
+
+replace all 5A 39 0E CC with 00 00 00 C0 - v111 - tooltip background
+
+Hex IP:
+00A99EA8 - IP - xxxxxxx
+00BF1180 - encryption/funny btes
+
+Olly:
+UI adjustments:
+UI adjustments:
+Main stat window:
+width - 00A3A520  PUSH 0AC -> 0D4
+
+Sub Stat window:
+width - 00A3A202 PUSH 0B2 -> 0E4
+
+mov eax,7FFFFFFF - 00819d4d - exp per lvl at 200+
+mov eax,98967F
+00819D34 max level for exp table
+
+Main stats - BB 00 7D 00 00
+9999 = 270f
+attack
+0083c89e - EDI,0x752f - 0x7d00
+0083c8a8 - EAX,0x752f - 0x7d00
+Matk
+0083cc7f - EDI,0x752f - 0x7d00
+0083cc89 - EAX,0x752f - 0x7d00
+
+Str
+00843DB5 - EAX,0x752f - 0x7d00
+00843DBE - EBX,0x752f - 0x7d00
+Dex
+0084412D - EAX,0x752f - 0x7d00
+00844136 - EDI,0x752f - 0x7d00
+
+Int
+00849A6B - EAX,0x752f - 0x7d00
+00849A74 - ECX,0x752f - 0x7d00
+Luk
+00849AE3 - EDI,0x752f - 0x7d00
+00849AEE - EAX,0x752f - 0x7d00
+
+sub Stats:
+0083D290 - change value to 7FFFFFFF CMP EDI
+0083D29A - change value to 7FFFFFFF MOV EAX
+
+values:
+0083xxx
+0084xxx
+
+Speed:
+Animations:
+0073A31F     CMP EAX,1F4 - 500 speed
+0073A326     MOV EAX,1F4 - 500 speed
+
+Max HP/MP:
+00847259 - CMP EAX,7FFFFFFF - hp
+00847262 - MOV ECX,7FFFFFFF - hp
+0084727F - CMP EAX,7FFFFFFF - mp
+00847288 - MOV ECX,7FFFFFFF - mp
+
+substat:
+width - (old) 172 -> 230
+height - (old) 82 ->
+UI stats Orgins
+Main windows +40
+sub window +50
+
+something dual blade? sp???
+00A165DC  |> B8 0A000000    MOV EAX,0A                               ;  Case 190 of switch 00A165C4
+
+//4th job sp basic job
+00A17471     EB 65          JMP SHORT kaotic_v.00A174D8 - JL -> JMP
+00A1749F     EB 37          JMP SHORT kaotic_v.00A174D8 - JL -> JMP
+00A174CA     EB 0C          JMP SHORT kaotic_v.00A174D8 - JL -> JMP
+//DB skill SP fix
+00A1760B     74 25          JE SHORT local.00A176xx -> 00A17632
+//evan SP
+00A1782E     74 0A          JE SHORT local.00A178xx -> 00A1783A
+
+disable SP
+00A19586 - > JNZ -> JMP
+
+message debuggers:
+00862220 - stringpool
+00BAB440 - showmessage - pop up msg
+004C9290 - chat message
+
+
+00A35771   > 81FE 3F420F00  CMP ESI,0F423F - dmanage range display
+00A3577D     BB 3F420F00    MOV EBX,0F423F - dmanage range display
+00A35790     81FF 3F420F00  CMP EDI,0F423F - dmanage range display
+00A3579C     BE 3F420F00    MOV ESI,0F423F - dmanage range display
+
+//olly damage cap float
+00E9BBE0     0000                 ADD BYTE PTR DS:[EAX],AL - damage cap
+
+level stuff??
+
+????
+0054201D  |. 83F8 78        CMP EAX,78
+
+comp switch case for lvl 30 70 120
+00820C80  /$ 56             PUSH ESI
+
+res stuff
+400=1024, 500=1280
+0045E61C     68 00040000    PUSH 500
+0045E710     68 00050000    PUSH 500 - effect dark screen
+0058B5F2     68 00050000    PUSH 500
+0058BFC1     68 00050000    PUSH 500
+005B67BB     68 00050000    PUSH 500
+005B6856     68 00050000    PUSH 500
+006BE887     68 00050000    PUSH 500
+006BE8AE     68 00050000    PUSH 500
+00B23B90  |. 68 00040000    PUSH 500
+00B23C86  |. 68 00040000    PUSH 500
+
+offset 200 -> 280 - centering
+0045E7A4     68 80FDFFFF    PUSH -280 - effect dark screen
+0058BB57   . 68 00FEFFFF    PUSH -200                                ; |Arg1 = FFFFFE00
+005B6D5D   . 68 00FEFFFF    PUSH -200                                ; |Arg1 = FFFFFE00
+006BE87D  |. 68 00FEFFFF    PUSH -200
+006BE8A5  |. 68 00FEFFFF    PUSH -200
+006BE8C7  |. 68 00FEFFFF    PUSH -200
+00B23D4B  |. 68 00FEFFFF    PUSH -200                                ; |Arg2 = FFFFFE00
+
+
+heap stuff
+00B88C71     68 FF7F0000    PUSH 7FFF
+00B88CC2     6A 7F          PUSH 7F
+
+00E9BBE0     0000                 ADD BYTE PTR DS:[EAX],AL - damage cap
+
+
+005457B5 - droppable nx - change to NOP
+0053EFFC - NOP <- works - disable untradable msg on trade:
+
+remove e-trace
+00C02F2E -> NOP
+00CAEAE2 -> NOP
+
+disable PA effects:
+007FB035 - change to jmp 0x007FB04A
+
+change EE cap:
+005429E3 - 0F -> ??
+
+change party cap:
+0058E897 - cmp eax, 0x6
+00C72A64 - mov edi, 0x6
+
+00545CE9 - message tag
+
+cube fix:
+005402CB     3C 05          CMP AL,5   4 -> 5
+00A95D35     3C 05          CMP AL,5   4 -> 5
+
+encytion??
+0x56, 0x39, 0x16, 0x69,
+
+testing:
+004029CF  |. 83C8 FF        OR EAX,FFFFFFFF
+
+00404273
+0040436A
+0040445A
+00404508
+0041F869
+00420558
+00439905
+
+
+Player Damage:
+00B4B110 - nop
+00B4B11A - nop
+00B4B120 - nop
+00B4B126 - nop
+00B4B13C - nop
+00B4B13D - nop
+
+
+Damage test:
+0046213A
+
+possible caps?
+00462DF3 - 
+00705BB4 - 
+00705DD8
+
+damage range?
+0083c89e - EDI,0x752f
+0083c8a8 - EAX,0x752f

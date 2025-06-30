@@ -1,0 +1,4 @@
+----- Start of the error log. [5/19/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 197 for version 39. File Name = Mob2.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 13 for version 39. File Name = Mob3.wz
+

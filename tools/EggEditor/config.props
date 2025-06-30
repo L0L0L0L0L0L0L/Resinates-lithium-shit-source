@@ -1,0 +1,11 @@
+#loaderThreads : Number of threads to use to concurrently load .wz files, set to 1 for a hard drive. (-1 = same as number of cpu cores)
+#useDeferredLoading : false = Loads entire file at once (takes longer). true = Only loads list of sub-nodes, loads the rest when needed.#imgPreview : Whether or not selecting an unloaded node should force it to load and show a preview.
+#Tue Nov 05 11:35:13 PST 2024
+createStringOnImport=true
+fixImportedLinks=false
+imgPreview=true
+lastOpenFile=H\:\\maplev111\\clients\\Maple\\Data\\Skill8.wz
+loadStringWz=true
+loaderThreads=-1
+popupOnInvalidInlink=false
+useDeferredLoading=true

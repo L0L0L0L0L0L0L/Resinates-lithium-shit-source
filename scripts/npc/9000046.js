@@ -1,0 +1,179 @@
+/*
+ This file is part of the OdinMS Maple Story Server
+ Copyright (C) 2008 Patrick Huy <patrick.huy@frz.cc>
+ Matthias Butz <matze@odinms.de>
+ Jan Christian Meyer <vimes@odinms.de>
+ 
+ This program is free software: you can redistribute it and/or modify
+ it under the terms of the GNU Affero General Public              as
+ published by the Free Software Foundation version 3 as published by
+ the Free Software Foundation. You may not use, modify or distribute
+ this program under any other version of the GNU Affero General Public
+ .
+ 
+ This program is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU Affero General Public              for more details.
+ 
+ You should have received a copy of the GNU Affero General Public             
+ along with this program.  If not, see <http://www.gnu.org/            s/>.
+ */
+var status = 0;
+var ticketId = 5062002;
+var slots = new Array(-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -15, -16, -50, -112, -113, -115, -116);
+var slot = 0;
+var equip;
+var equiplist;
+var scroll = 0;
+var scrollslot = 0;
+var cost = 1;
+var slotcount = 0;
+var cube;
+var count = 0;
+var min = 0;
+var max = 0;
+var chance = 0;
+var safe = 0;
+var pscroll = 0;
+var multi = 1;
+
+function start() {
+    status = -1;
+    action(1, 0, 0);
+}
+
+function action(mode, type, selection) {
+    if (mode == 1) {
+        status++;
+    } else {
+        status--;
+    }
+    if (status == 0) {
+        var text = "";
+        text += "#L6# #i2049305# #bStats: Based on Tier Lv.1 #k- #rSucces: 75%#k#l\r\n";
+        text += "#L7# #i2049306# #bStats: Based on Tier Lv.2 #k- #rSucces: 75%#k#l\r\n";
+        text += "#L8# #i2049307# #bStats: Based on Tier Lv.3 #k- #rSucces: 75%#k#l\r\n";
+        text += "#L9# #i2049308# #bStats: Based on Tier Lv.4 #k- #rSucces: 75%#k#l\r\n";
+        cm.sendSimple("Welcome to the Master Enhance System. I can speed up the process of enhancing equips.\r\nMax amount of enhancements is 50.\r\n\#rFailures Do not blow up equips.#k\r\n#bEach success has reduced chance of success.#k\r\n\Here are my Prices Per Star -> Power:\r\n" + text);
+    } else if (status == 1) {
+        chance = 0;
+        if (selection == 6) {
+            cube = 2049305;
+            min = 10;
+            max = 25;
+            chance = 5;
+            multi = 1;
+        } else if (selection == 7) {
+            cube = 2049306;
+            min = 25;
+            max = 50;
+            chance = 2;
+            multi = 3;
+        } else if (selection == 8) {
+            cube = 2049307;
+            min = 50;
+            max = 100;
+            chance = 1;
+            multi = 5;
+        } else if (selection == 9) {
+            cube = 2049308;
+            min = 100;
+            max = 250;
+            chance = 1;
+            multi = 10;
+        }
+        if (cm.haveItem(cube, 1)) {
+            equiplist = cm.getPlayer().getEquipItems();
+            if (!equiplist.isEmpty()) {
+                var selStr = "";
+                for (var i = 0; i < equiplist.size(); i++) {
+                    var curEquip = equiplist.get(i);
+                    if (curEquip != null && curEquip.getEnhance() < 50) {
+                        count += 1;
+                        selStr += "#L" + i + "##i" + curEquip.getItemId() + "# " + cm.getItemName(curEquip.getItemId()) + "#l\r\n\ ";
+                    }
+                }
+                if (count > 0) {
+                    cm.sendSimple("Which equip would you like to Enhance?\r\n\I only accept #i" + cube + "#\r\n\ " + selStr);
+                } else {
+                    cm.sendOk("You currently do not have any Equips to enhance.");
+                }
+            } else {
+                cm.sendOk("You currently do not have any Equips to enhance.");
+            }
+        } else {
+            cm.sendOk("You currently do not have enough Scrolls. Requires " + cost + " #i" + cube + "#s");
+        }
+    } else if (status == 2) {
+        if (equip == null) {
+            equip = equiplist.get(selection);
+        }
+        min = min + (equip.getPower());
+        max = max + (equip.getPower() * multi);
+        cm.sendGetTextS("How many #i" + cube + "# " + cm.getItemName(cube) + " would like to apply?\r\n#rEE Stat Power: " + min + "-" + max + "#k\r\nYou currently have #b" + cm.convertNumber(cm.getPlayer().countAllItem(cube)) + "#k Scrolls", 16);
+
+    } else if (status == 3) {
+        cost = cm.getNumber();
+        if (cost > 0) {
+            if (cm.haveItem(cube, cost)) {
+                cm.sendYesNoS("ARe you sure you wish to apply " + cost + " #i" + cube + "# to \r\n#i" + equip.getItemId() + "# " + cm.getItemName(equip.getItemId()) + "?", 16);
+            } else {
+                cm.sendOkS("You currently do not have enough #i" + cube + "#", 16);
+            }
+        } else {
+            cm.sendOk("hey retard....");
+        }
+    } else if (status == 4) {
+        if (cm.haveItem(cube, cost)) {
+            if (equip != null) {
+                var oldstr = equip.getTStr();
+                var olddex = equip.getTDex();
+                var oldint = equip.getTInt();
+                var oldluk = equip.getTLuk();
+                var oldatk = equip.getTAtk();
+                var oldmatk = equip.getTMatk();
+                var olddef = equip.getTDef();
+                var oldmdef = equip.getTMdef();
+                var value = cm.getPlayer().useEEScrolls(equip, chance, min, max, cost);
+                var stats = "#b" + cm.getItemName(equip.getItemId()) + "#k\r\n";
+                if (equip.getEnhance() > 0) {
+                    stats += "Stars: #b" + equip.getEnhance() + "#k\r\n";
+                }
+                if (equip.getTStr() > 0) {
+                    stats += "Str: #b" + cm.getFullUnitNumber(equip.getTStr()) + "  #g+" + (equip.getTStr() - oldstr) + "#k\r\n";
+                }
+                if (equip.getTDex() > 0) {
+                    stats += "Dex: #b" + cm.getFullUnitNumber(equip.getTDex()) + "  #g+" + (equip.getTDex() - olddex) + "#k\r\n";
+                }
+                if (equip.getTInt() > 0) {
+                    stats += "Int: #b" + cm.getFullUnitNumber(equip.getTInt()) + "  #g+" + (equip.getTInt() - oldint) + "#k\r\n";
+                }
+                if (equip.getTLuk() > 0) {
+                    stats += "Luk: #b" + cm.getFullUnitNumber(equip.getTLuk()) + "  #g+" + (equip.getTLuk() - oldluk) + "#k\r\n";
+                }
+                if (equip.getTAtk() > 0) {
+                    stats += "Weapon Attack: #b" + cm.getFullUnitNumber(equip.getTAtk()) + "  #g+" + (equip.getTAtk() - oldatk) + "#k\r\n";
+                }
+                if (equip.getTMatk() > 0) {
+                    stats += "Magic Attack: #b" + cm.getFullUnitNumber(equip.getTMatk()) + "  #g+" + (equip.getTMatk() - oldmatk) + "#k\r\n";
+                }
+                if (equip.getTDef() > 0) {
+                    stats += "Weapon Defense: #b" + cm.getFullUnitNumber(equip.getTDef()) + "  #g+" + (equip.getTDef() - olddef) + "#k\r\n";
+                }
+                if (equip.getTMdef() > 0) {
+                    stats += "Magic Defense: #b" + cm.getFullUnitNumber(equip.getTMdef()) + "  #g+" + (equip.getTMdef() - oldmdef) + "#k\r\n";
+                }
+                cm.gainItem(cube, -value);
+                cm.sendOk("#r#i" + cube + "# " + cm.getItemName(cube) + " (" + value + "x)#k was consumed.#k\r\n " + stats);
+            } else {
+                cm.sendOk("invalid equip error pls report..");
+            }
+        } else {
+            cm.sendOk("You currently do not have enough Scrolls. Requires " + cost + " #i" + cube + "#s");
+
+        }
+    }
+}
+
+

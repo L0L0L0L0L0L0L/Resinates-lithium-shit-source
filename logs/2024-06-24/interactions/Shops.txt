@@ -1,0 +1,60 @@
+[Mon Jun 24 01:04:57 PDT 2024] Bobby gained 1x EVA Unit 01 Android - for (x1) - Mesos from shop owner UryuIshida.
+---------------------------------
+
+[Mon Jun 24 03:32:27 PDT 2024] Sikula gained 1x EVA Unit 01 Android - for (x1) - Mesos from shop owner Yumi.
+---------------------------------
+
+[Mon Jun 24 03:32:29 PDT 2024] Sikula gained 1x Maple Beryl Buckle - for (x1) - Mesos from shop owner Yumi.
+---------------------------------
+
+[Mon Jun 24 06:19:44 PDT 2024] Gold gained 1x Supreme Power Scroll - for (x5000000) - Crusader Coin from shop owner Sore.
+---------------------------------
+
+[Mon Jun 24 08:18:00 PDT 2024] Umine gained 1x Willroid - for (x1) - Mesos from shop owner Sikula.
+---------------------------------
+
+[Mon Jun 24 08:18:02 PDT 2024] Umine gained 1x Sweetwater Twin Angels - for (x1) - Mesos from shop owner Sikula.
+---------------------------------
+
+[Mon Jun 24 08:18:04 PDT 2024] Umine gained 1x Genesis Bowman Overall - for (x1) - Mesos from shop owner Sikula.
+---------------------------------
+
+[Mon Jun 24 08:19:16 PDT 2024] Umine gained 1x Genesis Bowman Sallet - for (x1) - Mesos from shop owner Sikula.
+---------------------------------
+
+[Mon Jun 24 08:45:23 PDT 2024] Puta gained 1x Bowman Scroll 25% - for (x2369159) - Crusader Coin from shop owner AIexis.
+---------------------------------
+
+[Mon Jun 24 08:46:27 PDT 2024] AIexis gained 1x Bowman Scroll 25% - for (x500000) - Crusader Coin from shop owner Puta.
+---------------------------------
+
+[Mon Jun 24 08:51:52 PDT 2024] AIexis gained 1x EVA Unit 01 Android - for (x1) - Mesos from shop owner Puta.
+---------------------------------
+
+[Mon Jun 24 08:51:52 PDT 2024] AIexis gained 1x Crystal Heart - for (x1) - Mesos from shop owner Puta.
+---------------------------------
+
+[Mon Jun 24 08:51:53 PDT 2024] AIexis gained 1x Android Gloves - for (x1) - Mesos from shop owner Puta.
+---------------------------------
+
+[Mon Jun 24 08:51:53 PDT 2024] AIexis gained 1x Sweetwater Wand - for (x1) - Mesos from shop owner Puta.
+---------------------------------
+
+[Mon Jun 24 08:51:55 PDT 2024] AIexis gained 1x Maple Booster 1.5x - for (x1) - Mesos from shop owner Puta.
+---------------------------------
+
+[Mon Jun 24 08:51:57 PDT 2024] AIexis gained 35x Maple Booster 1.5x - for (x35) - Mesos from shop owner Puta.
+---------------------------------
+
+[Mon Jun 24 09:17:47 PDT 2024] Afks gained 1x Bowman Scroll 25% - for (x93) - Donation Point from shop owner AIexis.
+---------------------------------
+
+[Mon Jun 24 09:18:33 PDT 2024] Afks gained 1x Bowman Scroll 25% - for (x110534) - Golden Meso Bag from shop owner AIexis.
+---------------------------------
+
+[Mon Jun 24 09:20:57 PDT 2024] Afks gained 1x Bowman Scroll 25% - for (x2952) - Casino Coin from shop owner AIexis.
+---------------------------------
+
+[Mon Jun 24 09:21:28 PDT 2024] Afks gained 1x Bowman Scroll 25% - for (x250000) - Crusader Coin from shop owner AIexis.
+---------------------------------
+

@@ -1,0 +1,1 @@
+C:\PROGRA~1\java\jdk-21\bin\java.exe -Xmx48G -Dsun.java2d.d3d=false -jar "H:\Maplestory\Maple v83 Server-Client\Tools\EggEditor\Editor.jar"

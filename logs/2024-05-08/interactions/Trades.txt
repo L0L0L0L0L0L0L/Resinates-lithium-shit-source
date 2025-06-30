@@ -1,0 +1,186 @@
+[Wed May 08 00:15:38 PDT 2024] Annymore gained 1x Kofu Raid Book from Resinate trade.
+---------------------------------
+
+[Wed May 08 12:19:33 PDT 2024] Fuyuki gained 22175x Supreme Enhancement Scroll from Amaryllis trade.
+---------------------------------
+
+[Wed May 08 12:19:33 PDT 2024] Fuyuki gained 20125x Supreme Power Scroll from Amaryllis trade.
+---------------------------------
+
+[Wed May 08 12:19:33 PDT 2024] Fuyuki gained 18775x Supreme Cube from Amaryllis trade.
+---------------------------------
+
+[Wed May 08 12:19:33 PDT 2024] Fuyuki gained 20975x Supreme Soul Gem from Amaryllis trade.
+---------------------------------
+
+[Wed May 08 12:19:33 PDT 2024] Fuyuki gained 21175x Supreme Shard from Amaryllis trade.
+---------------------------------
+
+[Wed May 08 12:19:33 PDT 2024] Fuyuki gained 30000x Supreme Master Bait from Amaryllis trade.
+---------------------------------
+
+[Wed May 08 12:19:33 PDT 2024] Amaryllis gained 1x Android Gloves from Fuyuki trade.
+---------------------------------
+
+[Wed May 08 12:20:18 PDT 2024] Fuyuki gained 21250x Supreme Power Scroll from Faith trade.
+---------------------------------
+
+[Wed May 08 12:20:18 PDT 2024] Fuyuki gained 20100x Supreme Cube from Faith trade.
+---------------------------------
+
+[Wed May 08 12:20:18 PDT 2024] Fuyuki gained 22000x Supreme Shard from Faith trade.
+---------------------------------
+
+[Wed May 08 12:20:18 PDT 2024] Fuyuki gained 21975x Supreme Enhancement Scroll from Faith trade.
+---------------------------------
+
+[Wed May 08 12:20:18 PDT 2024] Fuyuki gained 19250x Supreme Soul Gem from Faith trade.
+---------------------------------
+
+[Wed May 08 12:22:24 PDT 2024] Faith gained 30000x Glory Coin from Fuyuki trade.
+---------------------------------
+
+[Wed May 08 12:22:24 PDT 2024] Faith gained 30000x Glory Coin from Fuyuki trade.
+---------------------------------
+
+[Wed May 08 12:22:24 PDT 2024] Faith gained 30000x Masked Gentleman Coin from Fuyuki trade.
+---------------------------------
+
+[Wed May 08 12:22:24 PDT 2024] Faith gained 30000x Masked Gentleman Coin from Fuyuki trade.
+---------------------------------
+
+[Wed May 08 12:22:24 PDT 2024] Faith gained 30000x Masked Gentleman Coin from Fuyuki trade.
+---------------------------------
+
+[Wed May 08 12:22:24 PDT 2024] Faith gained 30000x Masked Gentleman Coin from Fuyuki trade.
+---------------------------------
+
+[Wed May 08 12:22:24 PDT 2024] Faith gained 30000x Masked Gentleman Coin from Fuyuki trade.
+---------------------------------
+
+[Wed May 08 12:22:24 PDT 2024] Faith gained 30000x Masked Gentleman Coin from Fuyuki trade.
+---------------------------------
+
+[Wed May 08 12:23:26 PDT 2024] Amaryllis gained 30000x Glory Coin from Fuyuki trade.
+---------------------------------
+
+[Wed May 08 12:23:26 PDT 2024] Amaryllis gained 30000x Glory Coin from Fuyuki trade.
+---------------------------------
+
+[Wed May 08 12:23:26 PDT 2024] Amaryllis gained 30000x Masked Gentleman Coin from Fuyuki trade.
+---------------------------------
+
+[Wed May 08 12:23:26 PDT 2024] Amaryllis gained 30000x Masked Gentleman Coin from Fuyuki trade.
+---------------------------------
+
+[Wed May 08 12:23:26 PDT 2024] Amaryllis gained 30000x Masked Gentleman Coin from Fuyuki trade.
+---------------------------------
+
+[Wed May 08 12:23:26 PDT 2024] Amaryllis gained 30000x Masked Gentleman Coin from Fuyuki trade.
+---------------------------------
+
+[Wed May 08 13:31:22 PDT 2024] Amaryllis gained 1x Sweetwater Suit from Fuyuki trade.
+---------------------------------
+
+[Wed May 08 13:41:41 PDT 2024] CapG gained 3x Loaded Dice from QueenR trade.
+---------------------------------
+
+[Wed May 08 13:41:41 PDT 2024] CapG gained 2x Star Fragment from QueenR trade.
+---------------------------------
+
+[Wed May 08 14:14:11 PDT 2024] Overpower gained 10x PokeDoll from Super trade.
+---------------------------------
+
+[Wed May 08 18:07:57 PDT 2024] Lychee gained 38x PokeDoll from Azuki trade.
+---------------------------------
+
+[Wed May 08 18:07:57 PDT 2024] Lychee gained 9x M-Atk UP from Azuki trade.
+---------------------------------
+
+[Wed May 08 18:07:57 PDT 2024] Lychee gained 8x Dex UP from Azuki trade.
+---------------------------------
+
+[Wed May 08 18:07:57 PDT 2024] Lychee gained 6x Str UP from Azuki trade.
+---------------------------------
+
+[Wed May 08 18:07:57 PDT 2024] Lychee gained 7x Def UP from Azuki trade.
+---------------------------------
+
+[Wed May 08 18:07:57 PDT 2024] Lychee gained 6x Atk UP from Azuki trade.
+---------------------------------
+
+[Wed May 08 18:07:57 PDT 2024] Lychee gained 6x M-Def UP from Azuki trade.
+---------------------------------
+
+[Wed May 08 18:07:57 PDT 2024] Lychee gained 6x Int UP from Azuki trade.
+---------------------------------
+
+[Wed May 08 18:07:57 PDT 2024] Lychee gained 3x Luk UP from Azuki trade.
+---------------------------------
+
+[Wed May 08 20:54:10 PDT 2024] UryuIshida gained 250x Crypto Point from Resinate trade.
+---------------------------------
+
+[Thu May 09 01:41:36 PDT 2024] Azroht gained 8256x Grow Star from Aleena trade.
+---------------------------------
+
+[Thu May 09 01:41:36 PDT 2024] Azroht gained 4x Damage Ticket (Chaos) from Aleena trade.
+---------------------------------
+
+[Thu May 09 01:41:36 PDT 2024] Azroht gained 6x Damage Ticket (Supreme) from Aleena trade.
+---------------------------------
+
+[Thu May 09 01:41:36 PDT 2024] Azroht gained 330x Damage Ticket (Legendary) from Aleena trade.
+---------------------------------
+
+[Thu May 09 01:41:36 PDT 2024] Azroht gained 56x Reward Ticket (Kaotic) from Aleena trade.
+---------------------------------
+
+[Thu May 09 01:41:36 PDT 2024] Azroht gained 11x Donation Point from Aleena trade.
+---------------------------------
+
+[Thu May 09 01:41:36 PDT 2024] Azroht gained 4x Maple Point from Aleena trade.
+---------------------------------
+
+[Thu May 09 01:41:36 PDT 2024] Azroht gained 8x Energy Charge from Aleena trade.
+---------------------------------
+
+[Thu May 09 01:41:36 PDT 2024] Azroht gained 7x Megalixir from Aleena trade.
+---------------------------------
+
+[Thu May 09 07:41:39 PDT 2024] QueenR gained 3x Master Stone from CapG trade.
+---------------------------------
+
+[Thu May 09 08:19:28 PDT 2024] CapG gained 3x Master Stone from QueenR trade.
+---------------------------------
+
+[Thu May 09 08:19:28 PDT 2024] CapG gained 34x Normal Shard from QueenR trade.
+---------------------------------
+
+[Thu May 09 08:19:28 PDT 2024] CapG gained 150x Black Augurite from QueenR trade.
+---------------------------------
+
+[Thu May 09 08:59:17 PDT 2024] CapG gained 59x Normal Shard from QueenR trade.
+---------------------------------
+
+[Thu May 09 08:59:47 PDT 2024] CapG gained 7x Blank Plate from QueenR trade.
+---------------------------------
+
+[Thu May 09 09:01:59 PDT 2024] QueenR gained 5x Energy Pendent from CapG trade.
+---------------------------------
+
+[Thu May 09 09:01:59 PDT 2024] QueenR gained 5x Energy Booster from CapG trade.
+---------------------------------
+
+[Thu May 09 11:57:03 PDT 2024] CapG gained 47x Normal Shard from QueenR trade.
+---------------------------------
+
+[Thu May 09 14:16:06 PDT 2024] CapG gained 1x Loaded Dice from QueenR trade.
+---------------------------------
+
+[Thu May 09 14:16:06 PDT 2024] CapG gained 20x Master Stone from QueenR trade.
+---------------------------------
+
+[Thu May 09 14:16:45 PDT 2024] CapG gained 19x Black Augurite from QueenR trade.
+---------------------------------
+

@@ -1,0 +1,240 @@
+[Sat Oct 12 09:21:22 PDT 2024] ArcherBender gained 1x Arcane Umbra Crossbow - for (x1) - Golden Meso Bag from shop owner Bobby.
+---------------------------------
+
+[Sat Oct 12 09:29:18 PDT 2024] Bobby gained 1x Arcane Umbra Crossbow - for (x400) - Donation Point from shop owner ArcherBender.
+---------------------------------
+
+[Sat Oct 12 09:35:05 PDT 2024] Friday gained 1x Genesis Warrior Overall - for (x1800) - Donation Point from shop owner Miyeon.
+---------------------------------
+
+[Sat Oct 12 09:35:23 PDT 2024] Miyeon gained 1x Arcane Umbra Thief Shoulder - for (x1) - Mesos from shop owner Friday.
+---------------------------------
+
+[Sat Oct 12 09:36:05 PDT 2024] Friday gained 1x Arcane Umbra Knight Shoulder - for (x1) - Mesos from shop owner Miyeon.
+---------------------------------
+
+[Sat Oct 12 09:36:45 PDT 2024] Miyeon gained 1x Arcane Umbra Thief Gloves - for (x300) - Donation Point from shop owner Friday.
+---------------------------------
+
+[Sat Oct 12 10:09:20 PDT 2024] Miyeon gained 1x Arcane Umbra Thief Cape - for (x300) - Donation Point from shop owner Silveraze.
+---------------------------------
+
+[Sat Oct 12 16:48:26 PDT 2024] Cargo gained 1x Sweetwater Shoulder - for (x1) - Mesos from shop owner MaxD.
+---------------------------------
+
+[Sat Oct 12 16:48:28 PDT 2024] Cargo gained 1x Sweetwater Grip - for (x1) - Mesos from shop owner MaxD.
+---------------------------------
+
+[Sat Oct 12 16:48:29 PDT 2024] Cargo gained 1x Sweetwater Shoes - for (x1) - Mesos from shop owner MaxD.
+---------------------------------
+
+[Sat Oct 12 16:48:30 PDT 2024] Cargo gained 1x Beryl Maple Gloves - for (x1) - Mesos from shop owner MaxD.
+---------------------------------
+
+[Sat Oct 12 16:48:31 PDT 2024] Cargo gained 1x Sweetwater Monocle - for (x1) - Mesos from shop owner MaxD.
+---------------------------------
+
+[Sat Oct 12 16:48:33 PDT 2024] Cargo gained 1x Sweetwater Ring - for (x1) - Mesos from shop owner MaxD.
+---------------------------------
+
+[Sat Oct 12 16:48:34 PDT 2024] Cargo gained 1x Sweetwater Wand - for (x1) - Mesos from shop owner MaxD.
+---------------------------------
+
+[Sat Oct 12 16:48:35 PDT 2024] Cargo gained 1x Palette - for (x1) - Mesos from shop owner MaxD.
+---------------------------------
+
+[Sat Oct 12 16:48:36 PDT 2024] Cargo gained 1x Stone of Eternal Life - for (x1) - Mesos from shop owner MaxD.
+---------------------------------
+
+[Sat Oct 12 16:48:37 PDT 2024] Cargo gained 1x Stone of Eternal Life - for (x1) - Mesos from shop owner MaxD.
+---------------------------------
+
+[Sat Oct 12 16:48:38 PDT 2024] Cargo gained 1x Stone of Eternal Life - for (x1) - Mesos from shop owner MaxD.
+---------------------------------
+
+[Sat Oct 12 16:48:40 PDT 2024] Cargo gained 1x Stone of Eternal Life - for (x1) - Mesos from shop owner MaxD.
+---------------------------------
+
+[Sat Oct 12 16:48:40 PDT 2024] Cargo gained 1x Limbo's Mask - for (x1) - Mesos from shop owner MaxD.
+---------------------------------
+
+[Sat Oct 12 16:48:42 PDT 2024] Cargo gained 1x Limbo's Mask - for (x1) - Mesos from shop owner MaxD.
+---------------------------------
+
+[Sat Oct 12 16:48:43 PDT 2024] Cargo gained 1x Sweetwater Suit - for (x1) - Mesos from shop owner MaxD.
+---------------------------------
+
+[Sat Oct 12 16:48:44 PDT 2024] Cargo gained 1x G Clef Label Ring - for (x1) - Mesos from shop owner MaxD.
+---------------------------------
+
+[Sat Oct 12 16:48:45 PDT 2024] Cargo gained 1x Sweetwater Maul - for (x1) - Mesos from shop owner MaxD.
+---------------------------------
+
+[Sat Oct 12 16:48:46 PDT 2024] Cargo gained 1x Shinobi Bracer - for (x1) - Mesos from shop owner MaxD.
+---------------------------------
+
+[Sat Oct 12 16:48:47 PDT 2024] Cargo gained 1x Transparent Shield - for (x1) - Mesos from shop owner MaxD.
+---------------------------------
+
+[Sat Oct 12 16:48:48 PDT 2024] Cargo gained 1x Sweetwater Shoulder - for (x1) - Mesos from shop owner MaxD.
+---------------------------------
+
+[Sat Oct 12 16:48:50 PDT 2024] Cargo gained 1x Arcane Umbra Katara - for (x1) - Mesos from shop owner MaxD.
+---------------------------------
+
+[Sat Oct 12 16:48:53 PDT 2024] Cargo gained 1x Hand Axe - for (x1) - Mesos from shop owner MaxD.
+---------------------------------
+
+[Sat Oct 12 16:48:54 PDT 2024] Cargo gained 1x Sweetwater Belt - for (x1) - Mesos from shop owner MaxD.
+---------------------------------
+
+[Sat Oct 12 16:48:55 PDT 2024] Cargo gained 1x Sweetwater Hand Cannon - for (x1) - Mesos from shop owner MaxD.
+---------------------------------
+
+[Sat Oct 12 16:48:56 PDT 2024] Cargo gained 1x Sweetwater Shoes - for (x1) - Mesos from shop owner MaxD.
+---------------------------------
+
+[Sat Oct 12 16:48:57 PDT 2024] Cargo gained 1x Rudolph's Red Nose - for (x1) - Mesos from shop owner MaxD.
+---------------------------------
+
+[Sat Oct 12 16:48:59 PDT 2024] Cargo gained 1x Arcane Umbra Pirate Cape - for (x1) - Mesos from shop owner MaxD.
+---------------------------------
+
+[Sat Oct 12 19:30:19 PDT 2024] DesmonMer gained 1x Arcane Umbra Thief Hat - for (x400) - Donation Point from shop owner Tato.
+---------------------------------
+
+[Sat Oct 12 21:14:36 PDT 2024] Madness gained 1x Hilla's Rage - for (x250) - Donation Point from shop owner Tato.
+---------------------------------
+
+[Sat Oct 12 22:34:40 PDT 2024] Regis gained 1x AbsoLab Spellsong Staff - for (x100) - Donation Point from shop owner Tato.
+---------------------------------
+
+[Sun Oct 13 00:02:09 PDT 2024] Smores gained 1x Stone of Eternal Life - for (x200) - Donation Point from shop owner Cargo.
+---------------------------------
+
+[Sun Oct 13 00:37:24 PDT 2024] MaxD gained 1x Rudolph's Red Nose - for (x1) - Mesos from shop owner Friday.
+---------------------------------
+
+[Sun Oct 13 00:44:13 PDT 2024] Newie gained 1x Arcane Umbra Knight Gloves - for (x1) - Mesos from shop owner Friday.
+---------------------------------
+
+[Sun Oct 13 00:45:30 PDT 2024] MaxD gained 1x Arcane Umbra Knight Gloves - for (x1) - Mesos from shop owner Friday.
+---------------------------------
+
+[Sun Oct 13 01:23:18 PDT 2024] JavixXD gained 1x Black Phoenix Shield - for (x100) - Donation Point from shop owner Tato.
+---------------------------------
+
+[Sun Oct 13 01:23:29 PDT 2024] JavixXD gained 1x Arcane Umbra Knight Cape - for (x400) - Donation Point from shop owner Tato.
+---------------------------------
+
+[Sun Oct 13 01:24:30 PDT 2024] JavixXD gained 1x Willroid - for (x100) - Donation Point from shop owner Tato.
+---------------------------------
+
+[Sun Oct 13 01:30:27 PDT 2024] DesmonMer gained 1x Transparent Earrings - for (x500) - Donation Point from shop owner AIexis.
+---------------------------------
+
+[Sun Oct 13 01:30:29 PDT 2024] DesmonMer gained 1x Transparent Cape - for (x300) - Donation Point from shop owner AIexis.
+---------------------------------
+
+[Sun Oct 13 02:47:45 PDT 2024] lLEOl gained 1x AbsoLab Sureshot Bow - for (x100) - Donation Point from shop owner Tato.
+---------------------------------
+
+[Sun Oct 13 02:59:09 PDT 2024] Peak gained 1x Sweetwater Shoulder - for (x50) - Donation Point from shop owner Cargo.
+---------------------------------
+
+[Sun Oct 13 03:00:53 PDT 2024] lLEOl gained 1x Sweetwater Pendant - for (x50) - Donation Point from shop owner Cargo.
+---------------------------------
+
+[Sun Oct 13 04:29:46 PDT 2024] Mofan gained 1x Willroid - for (x1) - Mesos from shop owner bayang2.
+---------------------------------
+
+[Sun Oct 13 04:37:14 PDT 2024] Aurora gained 1x Elite Player - for (x1) - Mesos from shop owner Mofan.
+---------------------------------
+
+[Sun Oct 13 04:37:41 PDT 2024] Mofan gained 1x Silver Deputy Star - for (x1) - Mesos from shop owner Aurora.
+---------------------------------
+
+[Sun Oct 13 05:17:17 PDT 2024] JavixXD gained 1x Maple Crossbow - for (x1500) - Donation Point from shop owner Aurora.
+---------------------------------
+
+[Sun Oct 13 05:17:42 PDT 2024] JavixXD gained 1x Arcane Umbra Mage Suit - for (x1) - Donation Point from shop owner Aurora.
+---------------------------------
+
+[Sun Oct 13 05:17:44 PDT 2024] JavixXD gained 1x Arcane Umbra Knight Hat - for (x1) - Donation Point from shop owner Aurora.
+---------------------------------
+
+[Sun Oct 13 05:37:25 PDT 2024] Only gained 1x Maple Hat (Level 1) - for (x800) - Donation Point from shop owner Aurora.
+---------------------------------
+
+[Sun Oct 13 05:37:27 PDT 2024] Only gained 1x Genesis Thief Cape - for (x300) - Donation Point from shop owner Aurora.
+---------------------------------
+
+[Sun Oct 13 05:37:29 PDT 2024] Only gained 1x Genesis Thief Gloves - for (x299) - Donation Point from shop owner Aurora.
+---------------------------------
+
+[Sun Oct 13 05:37:31 PDT 2024] Only gained 1x Abyss Lampion - for (x1) - Donation Point from shop owner Aurora.
+---------------------------------
+
+[Sun Oct 13 06:28:05 PDT 2024] Zen13 gained 1x Genesis Mage Hat - for (x500) - Donation Point from shop owner bayang2.
+---------------------------------
+
+[Sun Oct 13 06:28:36 PDT 2024] Zen13 gained 1x Arcane Umbra Archer Gloves - for (x100) - Donation Point from shop owner bayang2.
+---------------------------------
+
+[Sun Oct 13 07:49:06 PDT 2024] Madness gained 1x Aura Pendant - for (x30) - Donation Point from shop owner JettWu.
+---------------------------------
+
+[Sun Oct 13 07:55:05 PDT 2024] Provix gained 1x Lucidroid - for (x55) - Donation Point from shop owner JettWu.
+---------------------------------
+
+[Sun Oct 13 07:56:09 PDT 2024] Provix gained 1x Talking Witch Hat - for (x80) - Donation Point from shop owner Tato.
+---------------------------------
+
+[Sun Oct 13 08:26:19 PDT 2024] Wrath gained 1x Arcane Umbra Thief Shoulder - for (x250) - Donation Point from shop owner UncleL33.
+---------------------------------
+
+[Sun Oct 13 09:17:38 PDT 2024] Wrath gained 1x Beryl Maple Prep Uniform - for (x800) - Donation Point from shop owner BadArse.
+---------------------------------
+
+[Sun Oct 13 09:17:39 PDT 2024] Provix gained 1x Genesis Thief Bandana - for (x300) - Donation Point from shop owner BadArse.
+---------------------------------
+
+[Sun Oct 13 09:41:40 PDT 2024] JettWu gained 1x Arcane Umbra Archer Suit - for (x150) - Donation Point from shop owner Miyeon.
+---------------------------------
+
+[Sun Oct 13 10:45:00 PDT 2024] Regis gained 1x Arcane Umbra Mage Hat - for (x25) - Donation Point from shop owner JettWu.
+---------------------------------
+
+[Sun Oct 13 10:59:15 PDT 2024] Wrath gained 1x Sweetwater Steer - for (x1) - Mesos from shop owner Silveraze.
+---------------------------------
+
+[Sun Oct 13 11:00:25 PDT 2024] LoyD gained 1x Maple Kandiva Bow - for (x5) - Donation Point from shop owner JettWu.
+---------------------------------
+
+[Sun Oct 13 11:18:08 PDT 2024] Zen13 gained 1x Arcane Umbra Pirate Cape - for (x150) - Donation Point from shop owner Only.
+---------------------------------
+
+[Sun Oct 13 11:46:16 PDT 2024] UncleL33 gained 1x Genesis Bowman Shoes - for (x1) - Mesos from shop owner Silveraze.
+---------------------------------
+
+[Sun Oct 13 12:04:06 PDT 2024] Zen13 gained 1x Maple Staff - for (x1000) - Donation Point from shop owner SnailSmasher.
+---------------------------------
+
+[Sun Oct 13 12:31:04 PDT 2024] AIexis gained 1x Genesis Mage Overall - for (x5000) - Donation Point from shop owner SnailSmasher.
+---------------------------------
+
+[Sun Oct 13 13:11:56 PDT 2024] Moth gained 1x Doom Shoulder - for (x1) - Maple Point from shop owner Smores.
+---------------------------------
+
+[Sun Oct 13 14:24:01 PDT 2024] AIexis gained 1x Genesis Thief Shoes - for (x2500) - Donation Point from shop owner SnailSmasher.
+---------------------------------
+
+[Sun Oct 13 15:41:32 PDT 2024] Bobby gained 1x Falcon Wing Sentinel Suit - for (x250) - Donation Point from shop owner Tato.
+---------------------------------
+
+[Sun Oct 13 18:34:39 PDT 2024] JettRyuk gained 1x Stone of Eternal Life - for (x100) - Donation Point from shop owner Cargo.
+---------------------------------
+
+[Sun Oct 13 18:37:10 PDT 2024] JettRyuk gained 1x Palette - for (x150) - Donation Point from shop owner Cargo.
+---------------------------------
+

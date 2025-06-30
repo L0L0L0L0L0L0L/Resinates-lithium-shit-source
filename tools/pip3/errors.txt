@@ -1,0 +1,1908 @@
+----- Start of the error log. [6/9/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+
+----- Start of the error log. [6/9/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000000.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000000.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000000.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[IncorrectStructure] : Background object Map.wz/Obj/GuildCastle/Master/ani/0 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/GuildCastle/Master/energyStone/0 not found.
+
+----- Start of the error log. [6/9/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000001.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000001.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000001.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[IncorrectStructure] : Background object Map.wz/Obj/GuildCastle/Lobby/RoomMarker/2 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/GuildCastle/Lobby/RoomMarker/0 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/GuildCastle/Lobby/RoomMarker/1 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/GuildCastle/HallofFame/Trophy/0 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/GuildCastle/HallofFame/Trophy/0 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/GuildCastle/HallofFame/Trophy/0 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/GuildCastle/HallofFame/Trophy/0 not found.
+
+----- Start of the error log. [6/9/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'safeZone'. , map 910000000.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'safeZone'. , map 910000000.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/9/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000008.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000008.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000008.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[IncorrectStructure] : Background object Map.wz/Obj/GuildCastle/HallofFame/Trophy/0 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/GuildCastle/HallofFame/Trophy/0 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/GuildCastle/Lobby/RoomMarker/1 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/GuildCastle/Lobby/RoomMarker/0 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/GuildCastle/Lobby/RoomMarker/0 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/GuildCastle/Lobby/RoomMarker/2 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/GuildCastle/Lobby/RoomMarker/2 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/GuildCastle/HallofFame/Trophy/0 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/GuildCastle/HallofFame/Trophy/0 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/GuildCastle/Lobby/RoomMarker/0 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/GuildCastle/Lobby/RoomMarker/1 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/GuildCastle/Lobby/RoomMarker/2 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/GuildCastle/HallofFame/Trophy/0 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/GuildCastle/HallofFame/Trophy/0 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/GuildCastle/HallofFame/Trophy/0 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/GuildCastle/HallofFame/Trophy/0 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/GuildCastle/HallofFame/Trophy/0 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/GuildCastle/HallofFame/Trophy/0 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/GuildCastle/HallofFame/Trophy/0 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/GuildCastle/HallofFame/Trophy/0 not found.
+
+----- Start of the error log. [6/9/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000102.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000102.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000102.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/9/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000000.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000000.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000000.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/9/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000105.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000105.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000105.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/9/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000001.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000001.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000001.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/9/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000008.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000008.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000008.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/9/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000001.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000001.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000001.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/9/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000002.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000002.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000002.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/9/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000003.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000003.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000003.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/9/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000004.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000004.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000004.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/9/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000103.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000103.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000103.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[IncorrectStructure] : Background object Map.wz/Obj/GuildCastle_Special/Reinforce/ani/0 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/GuildCastle_Special/Reinforce/ani/1 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/GuildCastle_Special/Reinforce/ani/2 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/GuildCastle_Special/Reinforce/ani/4 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/GuildCastle_Special/Reinforce/ani/3 not found.
+
+----- Start of the error log. [6/9/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000000.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000000.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000000.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/9/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000008.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000008.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000008.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/9/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'safeZone'. , map 910000000.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'safeZone'. , map 910000000.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/9/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000008.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000008.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000008.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/9/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000203.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000203.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000203.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/9/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000008.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000008.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000008.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/9/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000100.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000100.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000100.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[IncorrectStructure] : Background object Map.wz/Obj/GuildCastle_Special/Safe/lantern1/1 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/GuildCastle_Special/Safe/lantern2/1 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/GuildCastle_Special/Safe/lantern3/1 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/GuildCastle_Special/Safe/lantern1/1 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/GuildCastle_Special/Safe/lantern2/1 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/GuildCastle_Special/Safe/lantern3/1 not found.
+
+----- Start of the error log. [6/9/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000000.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000000.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000000.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/9/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'safeZone'. , map 910000000.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'safeZone'. , map 910000000.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/9/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000008.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000008.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000008.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/9/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000008.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000008.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000008.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/9/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870001020.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870001020.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[IncorrectStructure] : Background object Map.wz/Obj/GuildCastle_Special/Reinforce/ani/0 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/GuildCastle_Special/Reinforce/ani/1 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/GuildCastle_Special/Reinforce/ani/2 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/GuildCastle_Special/Reinforce/ani/4 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/GuildCastle_Special/Reinforce/ani/3 not found.
+
+----- Start of the error log. [6/9/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000001.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000001.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000001.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/9/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000002.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000002.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000002.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/9/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000003.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000003.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000003.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/9/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000004.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000004.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000004.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/9/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000008.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000008.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000008.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/9/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000000.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000000.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000000.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/9/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000100.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000100.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000100.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/9/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000102.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000102.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000102.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/9/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000103.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000103.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000103.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/9/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000203.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000203.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000203.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/9/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000000.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000000.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000000.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/9/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000010.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000010.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000010.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/9/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000008.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000008.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000008.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/9/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000011.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000011.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000011.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/9/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000012.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000012.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000012.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/9/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000013.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000013.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000013.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/9/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000014.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000014.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000014.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/9/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000015.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000015.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000015.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/9/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000016.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000016.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000016.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/9/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000018.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000018.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000018.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/9/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000019.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000019.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000019.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/9/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000015.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000015.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000015.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/9/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000017.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000017.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000017.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/9/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000019.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000019.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000019.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/9/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000018.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000018.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000018.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/9/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000019.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000019.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000019.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/9/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000020.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000020.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000020.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/9/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000020.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000020.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000020.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/9/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000008.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000008.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000008.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/9/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000019.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000019.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000019.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/9/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000020.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000020.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000020.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/9/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000017.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000017.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000017.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/9/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000016.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000016.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000016.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/9/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000015.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000015.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000015.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/9/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000014.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000014.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000014.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/9/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000018.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000018.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000018.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/9/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000001.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000001.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000001.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/9/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000008.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000008.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000008.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/9/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870001200.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870001200.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/9/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870001220.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870001220.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/9/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000020.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000020.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000020.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/9/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870001221.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870001221.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/9/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870001222.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870001222.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/9/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870001230.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'barrierAut'. , map 870001230.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870001230.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/9/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870001231.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'barrierAut'. , map 870001231.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870001231.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/9/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870001200.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870001200.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/9/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870001210.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870001210.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/9/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000001.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000001.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000001.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/9/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000001.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000001.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000001.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/9/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000002.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000002.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000002.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/9/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000003.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000003.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000003.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/9/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000004.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000004.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000004.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/9/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870001230.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'barrierAut'. , map 870001230.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870001230.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/9/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870001231.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'barrierAut'. , map 870001231.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870001231.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/9/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870001231.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'barrierAut'. , map 870001231.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870001231.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/9/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870001230.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'barrierAut'. , map 870001230.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870001230.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/9/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870001222.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870001222.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/9/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870001221.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870001221.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/9/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870001220.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870001220.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/9/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+
+----- Start of the error log. [6/9/2024 12:00:00 AM] unknown-----
+[IncorrectStructure] : Invalid fieldType 213, map 867132100.img of version CUSTOM, v111
+[IncorrectStructure] : Background object Map.wz/Obj/PL_RetroWorld/Ani/Torch2/0 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/PL_RetroWorld/Ani/Ingle2/0 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/PL_RetroWorld/Ani/Ingle2/0 not found.
+
+----- Start of the error log. [6/9/2024 12:00:00 AM] unknown-----
+[IncorrectStructure] : Invalid fieldType 213, map 867132200.img of version CUSTOM, v111
+
+----- Start of the error log. [6/9/2024 12:00:00 AM] unknown-----
+[IncorrectStructure] : Invalid fieldType 213, map 867134900.img of version CUSTOM, v111
+
+----- Start of the error log. [6/9/2024 12:00:00 AM] unknown-----
+[IncorrectStructure] : Invalid fieldType 213, map 867133600.img of version CUSTOM, v111
+[IncorrectStructure] : Background object Map.wz/Obj/PL_RetroWorld/Trap/Fire/8 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/PL_RetroWorld/Trap/Fire/8 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/PL_RetroWorld/Trap/Fire/8 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/PL_RetroWorld/Trap/Fire/8 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/PL_RetroWorld/Trap/Fire/8 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/PL_RetroWorld/Trap/Fire/8 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/PL_RetroWorld/Trap/Fire/8 not found.
+
+----- Start of the error log. [6/9/2024 12:00:00 AM] unknown-----
+[IncorrectStructure] : Invalid fieldType 213, map 867155900.img of version CUSTOM, v111
+
+----- Start of the error log. [6/9/2024 12:00:00 AM] unknown-----
+[IncorrectStructure] : Background object Map.wz/Obj/acc16/2020Neo/foothold/4 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/acc16/2020Neo/foothold/4 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/acc16/2020Neo/foothold/4 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/acc16/2020Neo/obj/10 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/acc16/2020Neo/obj/10 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/acc16/2020Neo/obj/11 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/acc16/2020Neo/obj/10 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/acc16/2020Neo/obj/10 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/acc16/2020Neo/foothold/4 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/acc16/2020Neo/foothold/4 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/acc16/2020Neo/obj/11 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/acc16/2020Neo/foothold/4 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/acc16/2020Neo/obj/9 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/acc16/2020Neo/obj/9 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/acc16/2020Neo/obj/9 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/acc16/2020Neo/obj/9 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/acc16/2020Neo/obj/9 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/acc16/2020Neo/obj/9 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/acc16/2020Neo/obj/9 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/acc16/2020Neo/obj/9 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/acc16/2020Neo/obj/9 not found.
+
+----- Start of the error log. [6/9/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000008.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000008.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000008.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/9/2024 12:00:00 AM] unknown-----
+[IncorrectStructure] : Background object Map.wz/Obj/GuildCastle/Lobby_Destroyed/bg/1 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/GuildCastle/Lobby_Destroyed/bg/0 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/GuildCastle/Lobby_Destroyed/obj/4 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/GuildCastle/Lobby_Destroyed/obj/5 not found.
+
+----- Start of the error log. [6/9/2024 12:00:00 AM] unknown-----
+[IncorrectStructure] : Background object Map.wz/Obj/GuildCastle/Office/energyStone/0 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/GuildCastle/Office/ani/0 not found.
+
+----- Start of the error log. [6/9/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000101.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000101.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000101.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/9/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000100.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000100.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000100.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/9/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '910000000.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 910000000.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 910000000.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/9/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000100.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000100.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000100.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/9/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '867162000.img' , ver. CUSTOM, v111
+[IncorrectStructure] : Invalid fieldType 268, map 867162000.img of version CUSTOM, v111
+[IncorrectStructure] : Background object Map.wz/Obj/Wz2_MExplorer_MistyIsland/defense/invasionRoute_1_LT_convex/0 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/Wz2_MExplorer_MistyIsland/defense/invasionRoute_1_LT_convex/1 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/Wz2_MExplorer_MistyIsland/defense/invasionRoute_1_LT_convex/2 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/Wz2_MExplorer_MistyIsland/defense/invasionRoute_2_RT_convex/0 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/Wz2_MExplorer_MistyIsland/defense/invasionRoute_2_RT_convex/1 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/Wz2_MExplorer_MistyIsland/defense/invasionRoute_2_RT_convex/2 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/Wz2_MExplorer_MistyIsland/defense/waterfallAni/0 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/Wz2_MExplorer_MistyIsland/defense/invasionRoute_3_LB_convex/0 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/Wz2_MExplorer_MistyIsland/defense/invasionRoute_3_LB_convex/1 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/Wz2_MExplorer_MistyIsland/defense/invasionRoute_3_LB_convex/2 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/Wz2_MExplorer_MistyIsland/defense/invasionRoute_4_RB_convex/0 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/Wz2_MExplorer_MistyIsland/defense/invasionRoute_4_RB_convex/1 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/Wz2_MExplorer_MistyIsland/defense/invasionRoute_4_RB_convex/2 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/Wz2_MExplorer_MistyIsland/defense/base_convex/0 not found.
+
+----- Start of the error log. [6/9/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '867162010.img' , ver. CUSTOM, v111
+[IncorrectStructure] : Invalid fieldType 268, map 867162010.img of version CUSTOM, v111
+
+----- Start of the error log. [6/9/2024 12:00:00 AM] unknown-----
+[IncorrectStructure] : Invalid fieldType 254, map 867163050.img of version CUSTOM, v111
+[IncorrectStructure] : Invalid fieldType 254, map 867163100.img of version CUSTOM, v111
+[IncorrectStructure] : Invalid fieldType 254, map 867163550.img of version CUSTOM, v111
+[IncorrectStructure] : Invalid fieldType 254, map 867163750.img of version CUSTOM, v111
+
+----- Start of the error log. [6/10/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000020.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000020.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000020.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/10/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870001200.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870001200.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/10/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870001220.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870001220.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/10/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000008.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000008.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000008.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/10/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000010.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000010.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000010.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/10/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000100.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000100.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000100.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/10/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000106.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000106.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000106.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/10/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000107.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000107.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000107.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/11/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000106.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000106.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000106.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/11/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000107.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000107.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000107.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/11/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000100.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000100.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000100.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/11/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000108.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000108.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000108.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/11/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000103.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000103.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000103.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/11/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000103.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000103.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000103.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/11/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000103.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000103.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000103.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/11/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000109.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000109.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000109.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/11/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000000.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000000.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000000.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/11/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000008.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000008.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000008.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/12/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+
+----- Start of the error log. [6/13/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'barrierAut'. , map 410007622.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/1 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/1 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/0 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/1 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/2 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/2 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/0 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/1 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/2 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/2 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/0 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/0 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/3 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/3 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/3 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/4 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/4 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/4 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/4 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/4 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/5 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/5 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/5 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/3 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/3 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/3 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/4 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/4 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/4 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/4 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/4 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/5 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/5 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/5 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/6 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/6 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/6 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/6 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/6 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/6 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/6 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/7 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/7 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/7 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/7 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/7 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/7 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/8 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/8 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/8 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/8 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/8 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/8 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/8 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/6 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/6 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/6 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/6 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/6 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/6 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/6 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/7 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/7 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/7 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/7 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/7 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/7 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/9 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/9 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/9 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/9 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/9 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/9 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/9 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/9 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/8 not found.
+
+----- Start of the error log. [6/13/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'barrierAut'. , map 410007623.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/6 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/6 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/7 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/7 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/7 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/9 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/9 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/9 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/9 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/9 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/9 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/9 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/9 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/9 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/9 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/9 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/9 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/6 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/6 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/7 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/7 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/7 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/8 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/8 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/8 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/8 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/8 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/8 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/8 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/8 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/8 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/8 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/8 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/8 not found.
+
+----- Start of the error log. [6/13/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'barrierAut'. , map 410007624.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/6 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/6 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/6 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/6 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/6 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/6 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/7 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/7 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/7 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/7 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/7 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/7 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/7 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/7 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/9 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/9 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/6 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/6 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/9 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/9 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/9 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/6 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/6 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/6 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/6 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/6 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/6 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/6 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/7 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/7 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/7 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/7 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/7 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/7 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/7 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/7 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/8 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/8 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/6 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/6 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/8 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/8 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/8 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/6 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/9 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/8 not found.
+
+----- Start of the error log. [6/13/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'barrierAut'. , map 410007625.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/6 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/6 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/6 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/6 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/6 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/6 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/6 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/7 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/7 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/7 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/7 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/7 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/7 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/7 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/7 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/7 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/9 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/9 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/9 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/9 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/9 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/9 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/9 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/6 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/6 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/6 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/6 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/6 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/6 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/6 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/6 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/7 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/7 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/7 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/7 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/7 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/7 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/7 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/7 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/7 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/8 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/8 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/8 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/8 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/8 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/8 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/8 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/6 not found.
+
+----- Start of the error log. [6/13/2024 12:00:00 AM] unknown-----
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/6 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/6 not found.
+
+----- Start of the error log. [6/13/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'barrierAut'. , map 410007640.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/jungle_small/5 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/jungle_small/7 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/jungle_small/6 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/jungle_small/4 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/jungle_small/12 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/jungle_small/14 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/jungle_small/15 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/jungle_small/13 not found.
+[IncorrectStructure] : Background image carcion_jungle/0 is null, WzImage: 'carcion_jungle.img' , ver. CUSTOM, v111
+[IncorrectStructure] : Background image carcion_jungle/1 is null, WzImage: 'carcion_jungle.img' , ver. CUSTOM, v111
+[IncorrectStructure] : Background image carcion_jungle/0 is null, WzImage: 'carcion_jungle.img' , ver. CUSTOM, v111
+[IncorrectStructure] : Background image carcion_jungle/1 is null, WzImage: 'carcion_jungle.img' , ver. CUSTOM, v111
+[IncorrectStructure] : Background image carcion_jungle/1 is null, WzImage: 'carcion_jungle.img' , ver. CUSTOM, v111
+[IncorrectStructure] : Background image carcion_jungle/0 is null, WzImage: 'carcion_jungle.img' , ver. CUSTOM, v111
+[IncorrectStructure] : Background image carcion_jungle/0 is null, WzImage: 'carcion_jungle.img' , ver. CUSTOM, v111
+[IncorrectStructure] : Background image carcion_jungle/1 is null, WzImage: 'carcion_jungle.img' , ver. CUSTOM, v111
+
+----- Start of the error log. [6/13/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'barrierAut'. , map 410007641.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/jungle_small/7 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/jungle_small/6 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/jungle_small/4 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/jungle_small/5 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/jungle_small/15 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/jungle_small/14 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/jungle_small/13 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/jungle_small/12 not found.
+[IncorrectStructure] : Background image carcion_jungle/0 is null, WzImage: 'carcion_jungle.img' , ver. CUSTOM, v111
+[IncorrectStructure] : Background image carcion_jungle/1 is null, WzImage: 'carcion_jungle.img' , ver. CUSTOM, v111
+[IncorrectStructure] : Background image carcion_jungle/0 is null, WzImage: 'carcion_jungle.img' , ver. CUSTOM, v111
+[IncorrectStructure] : Background image carcion_jungle/1 is null, WzImage: 'carcion_jungle.img' , ver. CUSTOM, v111
+[IncorrectStructure] : Background image carcion_jungle/1 is null, WzImage: 'carcion_jungle.img' , ver. CUSTOM, v111
+[IncorrectStructure] : Background image carcion_jungle/0 is null, WzImage: 'carcion_jungle.img' , ver. CUSTOM, v111
+[IncorrectStructure] : Background image carcion_jungle/0 is null, WzImage: 'carcion_jungle.img' , ver. CUSTOM, v111
+[IncorrectStructure] : Background image carcion_jungle/1 is null, WzImage: 'carcion_jungle.img' , ver. CUSTOM, v111
+
+----- Start of the error log. [6/13/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/lap_SmallVolume/12 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/lap/0 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/lap/0 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/lap_SmallVolume/9 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/lap_SmallVolume/10 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/lap_SmallVolume/11 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/lap_SmallVolume/11 not found.
+
+----- Start of the error log. [6/13/2024 12:00:00 AM] unknown-----
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/lap/6 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/lap_SmallVolume/1 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/lap_SmallVolume/0 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/lap_SmallVolume/2 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/lap_SmallVolume/3 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/lap_SmallVolume/4 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/lap_SmallVolume/5 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/lap/7 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/lap/9 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/lap/11 not found.
+
+----- Start of the error log. [6/13/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'barrierAut'. , map 410007641.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/13/2024 12:00:00 AM] unknown-----
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/lap_SmallVolume/12 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/lap/0 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/lap/0 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/lap_SmallVolume/9 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/lap_SmallVolume/10 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/lap_SmallVolume/11 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/lap_SmallVolume/11 not found.
+
+----- Start of the error log. [6/13/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'barrierAut'. , map 410007642.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/jungle_small/4 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/jungle_small/5 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/jungle_small/6 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/jungle_small/7 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/jungle_small/4 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/jungle_small/5 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/jungle_small/6 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/jungle_small/7 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/jungle_small/3 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/jungle_small/2 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/jungle_small/0 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/jungle_small/1 not found.
+[IncorrectStructure] : Background image carcion_jungle/0 is null, WzImage: 'carcion_jungle.img' , ver. CUSTOM, v111
+[IncorrectStructure] : Background image carcion_jungle/1 is null, WzImage: 'carcion_jungle.img' , ver. CUSTOM, v111
+[IncorrectStructure] : Background image carcion_jungle/0 is null, WzImage: 'carcion_jungle.img' , ver. CUSTOM, v111
+[IncorrectStructure] : Background image carcion_jungle/1 is null, WzImage: 'carcion_jungle.img' , ver. CUSTOM, v111
+[IncorrectStructure] : Background image carcion_jungle/0 is null, WzImage: 'carcion_jungle.img' , ver. CUSTOM, v111
+[IncorrectStructure] : Background image carcion_jungle/1 is null, WzImage: 'carcion_jungle.img' , ver. CUSTOM, v111
+
+----- Start of the error log. [6/13/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'barrierAut'. , map 410007643.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/jungle_small/12 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/jungle_small/14 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/jungle_small/4 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/jungle_small/5 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/jungle_small/7 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/jungle_small/4 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/jungle_small/5 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/jungle_small/6 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/jungle_small/7 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/jungle_small/6 not found.
+[IncorrectStructure] : Background image carcion_jungle/0 is null, WzImage: 'carcion_jungle.img' , ver. CUSTOM, v111
+[IncorrectStructure] : Background image carcion_jungle/1 is null, WzImage: 'carcion_jungle.img' , ver. CUSTOM, v111
+[IncorrectStructure] : Background image carcion_jungle/1 is null, WzImage: 'carcion_jungle.img' , ver. CUSTOM, v111
+[IncorrectStructure] : Background image carcion_jungle/0 is null, WzImage: 'carcion_jungle.img' , ver. CUSTOM, v111
+[IncorrectStructure] : Background image carcion_jungle/1 is null, WzImage: 'carcion_jungle.img' , ver. CUSTOM, v111
+[IncorrectStructure] : Background image carcion_jungle/0 is null, WzImage: 'carcion_jungle.img' , ver. CUSTOM, v111
+[IncorrectStructure] : Background image carcion_jungle/1 is null, WzImage: 'carcion_jungle.img' , ver. CUSTOM, v111
+
+----- Start of the error log. [6/13/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'barrierAut'. , map 410007644.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/13/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'barrierAut'. , map 410007645.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/jungle_small/12 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/jungle_small/14 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/jungle_small/6 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/jungle_small/7 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/jungle_small/5 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/jungle_small/4 not found.
+[IncorrectStructure] : Background image carcion_jungle/0 is null, WzImage: 'carcion_jungle.img' , ver. CUSTOM, v111
+[IncorrectStructure] : Background image carcion_jungle/1 is null, WzImage: 'carcion_jungle.img' , ver. CUSTOM, v111
+[IncorrectStructure] : Background image carcion_jungle/1 is null, WzImage: 'carcion_jungle.img' , ver. CUSTOM, v111
+[IncorrectStructure] : Background image carcion_jungle/0 is null, WzImage: 'carcion_jungle.img' , ver. CUSTOM, v111
+[IncorrectStructure] : Background image carcion_jungle/1 is null, WzImage: 'carcion_jungle.img' , ver. CUSTOM, v111
+[IncorrectStructure] : Background image carcion_jungle/0 is null, WzImage: 'carcion_jungle.img' , ver. CUSTOM, v111
+[IncorrectStructure] : Background image carcion_jungle/1 is null, WzImage: 'carcion_jungle.img' , ver. CUSTOM, v111
+
+----- Start of the error log. [6/13/2024 12:00:00 AM] unknown-----
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/6 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/6 not found.
+
+----- Start of the error log. [6/13/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'barrierAut'. , map 410007620.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/1 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/2 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/5 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/5 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/1 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/2 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/3 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/3 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/3 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/4 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/4 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/4 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/4 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/4 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/4 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/4 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/3 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/3 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/3 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/4 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/4 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/4 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/4 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/4 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/4 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/4 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/6 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/6 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/6 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/6 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/6 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/6 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/7 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/7 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/7 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/7 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/7 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/7 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/7 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/8 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/8 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/8 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/8 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/8 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/6 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/6 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/6 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/6 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/6 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/6 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/7 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/7 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/7 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/7 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/7 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/7 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/7 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/9 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/9 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/9 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/9 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/9 not found.
+
+----- Start of the error log. [6/13/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'barrierAut'. , map 410007621.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/1 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/2 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/2 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/1 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/2 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/2 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/4 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/4 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/4 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/4 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/4 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/4 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/4 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/5 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/5 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/5 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/4 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/4 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/4 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/4 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/5 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/5 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/5 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/4 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/4 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/4 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/3 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/3 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/3 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/4 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/4 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/4 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/4 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/5 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/5 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/5 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/3 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/3 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/3 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/4 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/4 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/4 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/4 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/5 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/5 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/5 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/5 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/6 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/6 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/6 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/6 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/6 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/6 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/6 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/7 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/7 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/7 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/7 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/8 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/8 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/8 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/8 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/6 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/6 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/6 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/6 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/6 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/6 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/6 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/6 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/7 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/7 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/7 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/7 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/9 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/9 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/9 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/9 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/6 not found.
+
+----- Start of the error log. [6/13/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'barrierAut'. , map 410007622.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/13/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+
+----- Start of the error log. [6/13/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'barrierAut'. , map 410007660.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/13/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'barrierAut'. , map 410007664.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/13/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'barrierAut'. , map 410007665.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/13/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'barrierAut'. , map 410007666.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/13/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'barrierAut'. , map 410007667.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/13/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'barrierAut'. , map 410007660.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[IncorrectStructure] : Background image carcion_cave/0 is null, WzImage: 'carcion_cave.img' , ver. CUSTOM, v111
+[IncorrectStructure] : Background image carcion_cave/1 is null, WzImage: 'carcion_cave.img' , ver. CUSTOM, v111
+[IncorrectStructure] : Background image carcion_cave/2 is null, WzImage: 'carcion_cave.img' , ver. CUSTOM, v111
+
+----- Start of the error log. [6/13/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'barrierAut'. , map 410007661.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[IncorrectStructure] : Background image carcion_cave/0 is null, WzImage: 'carcion_cave.img' , ver. CUSTOM, v111
+[IncorrectStructure] : Background image carcion_cave/1 is null, WzImage: 'carcion_cave.img' , ver. CUSTOM, v111
+[IncorrectStructure] : Background image carcion_cave/2 is null, WzImage: 'carcion_cave.img' , ver. CUSTOM, v111
+
+----- Start of the error log. [6/13/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'barrierAut'. , map 410007662.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[IncorrectStructure] : Background image carcion_cave/0 is null, WzImage: 'carcion_cave.img' , ver. CUSTOM, v111
+[IncorrectStructure] : Background image carcion_cave/1 is null, WzImage: 'carcion_cave.img' , ver. CUSTOM, v111
+[IncorrectStructure] : Background image carcion_cave/2 is null, WzImage: 'carcion_cave.img' , ver. CUSTOM, v111
+
+----- Start of the error log. [6/13/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'barrierAut'. , map 410007663.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[IncorrectStructure] : Background image carcion_cave/0 is null, WzImage: 'carcion_cave.img' , ver. CUSTOM, v111
+[IncorrectStructure] : Background image carcion_cave/1 is null, WzImage: 'carcion_cave.img' , ver. CUSTOM, v111
+[IncorrectStructure] : Background image carcion_cave/2 is null, WzImage: 'carcion_cave.img' , ver. CUSTOM, v111
+
+----- Start of the error log. [6/13/2024 12:00:00 AM] unknown-----
+[IncorrectStructure] : Background image carcion_cave/0 is null, WzImage: 'carcion_cave.img' , ver. CUSTOM, v111
+[IncorrectStructure] : Background image carcion_cave/1 is null, WzImage: 'carcion_cave.img' , ver. CUSTOM, v111
+[IncorrectStructure] : Background image carcion_cave/2 is null, WzImage: 'carcion_cave.img' , ver. CUSTOM, v111
+
+----- Start of the error log. [6/13/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'barrierAut'. , map 410007664.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[IncorrectStructure] : Background image carcion_cave/3 is null, WzImage: 'carcion_cave.img' , ver. CUSTOM, v111
+[IncorrectStructure] : Background image carcion_cave/4 is null, WzImage: 'carcion_cave.img' , ver. CUSTOM, v111
+[IncorrectStructure] : Background image carcion_cave/5 is null, WzImage: 'carcion_cave.img' , ver. CUSTOM, v111
+
+----- Start of the error log. [6/13/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'barrierAut'. , map 410007665.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[IncorrectStructure] : Background image carcion_cave/3 is null, WzImage: 'carcion_cave.img' , ver. CUSTOM, v111
+[IncorrectStructure] : Background image carcion_cave/4 is null, WzImage: 'carcion_cave.img' , ver. CUSTOM, v111
+[IncorrectStructure] : Background image carcion_cave/5 is null, WzImage: 'carcion_cave.img' , ver. CUSTOM, v111
+
+----- Start of the error log. [6/13/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'barrierAut'. , map 410007666.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[IncorrectStructure] : Background image carcion_cave/3 is null, WzImage: 'carcion_cave.img' , ver. CUSTOM, v111
+[IncorrectStructure] : Background image carcion_cave/4 is null, WzImage: 'carcion_cave.img' , ver. CUSTOM, v111
+[IncorrectStructure] : Background image carcion_cave/5 is null, WzImage: 'carcion_cave.img' , ver. CUSTOM, v111
+
+----- Start of the error log. [6/13/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'barrierAut'. , map 410007667.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[IncorrectStructure] : Background image carcion_cave/3 is null, WzImage: 'carcion_cave.img' , ver. CUSTOM, v111
+[IncorrectStructure] : Background image carcion_cave/4 is null, WzImage: 'carcion_cave.img' , ver. CUSTOM, v111
+[IncorrectStructure] : Background image carcion_cave/5 is null, WzImage: 'carcion_cave.img' , ver. CUSTOM, v111
+
+----- Start of the error log. [6/13/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'barrierAut'. , map 410007625.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/13/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'barrierAut'. , map 410007624.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/13/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'barrierAut'. , map 410007623.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/13/2024 12:00:00 AM] unknown-----
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/0 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/1 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/2 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/3 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/3 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/4 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/4 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/4 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/5 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/5 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/0 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/1 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/2 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/3 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/3 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/4 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/4 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/4 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/5 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/5 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/6 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/7 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/9 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/6 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/7 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/8 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/8 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/9 not found.
+
+----- Start of the error log. [6/13/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'barrierAut'. , map 410007622.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/13/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'barrierAut'. , map 410007621.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/13/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'barrierAut'. , map 410007620.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/13/2024 12:00:00 AM] unknown-----
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/0 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/1 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/1 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/2 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/2 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/0 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/1 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/1 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/2 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/2 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/3 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/3 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/3 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/4 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/4 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/5 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/5 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion_pollution/spine/center_small/5 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/3 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/3 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/3 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/4 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/4 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/5 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/5 not found.
+[IncorrectStructure] : Background object Map.wz/Obj/carcion/spine/center_small/5 not found.
+
+----- Start of the error log. [6/13/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+[IncorrectStructure] : Background image carcion_center/0 is null, WzImage: 'carcion_center.img' , ver. CUSTOM, v111
+[IncorrectStructure] : Background image carcion_center/1 is null, WzImage: 'carcion_center.img' , ver. CUSTOM, v111
+[IncorrectStructure] : Background image carcion_center/2 is null, WzImage: 'carcion_center.img' , ver. CUSTOM, v111
+[IncorrectStructure] : Background image carcion_center/3 is null, WzImage: 'carcion_center.img' , ver. CUSTOM, v111
+[IncorrectStructure] : Background image carcion_center/1 is null, WzImage: 'carcion_center.img' , ver. CUSTOM, v111
+[IncorrectStructure] : Background image carcion_center/2 is null, WzImage: 'carcion_center.img' , ver. CUSTOM, v111
+[IncorrectStructure] : Background image carcion_center/3 is null, WzImage: 'carcion_center.img' , ver. CUSTOM, v111
+[IncorrectStructure] : Background image carcion_center/4 is null, WzImage: 'carcion_center.img' , ver. CUSTOM, v111
+[IncorrectStructure] : Background image carcion_center/5 is null, WzImage: 'carcion_center.img' , ver. CUSTOM, v111
+[IncorrectStructure] : Background image carcion_center/4 is null, WzImage: 'carcion_center.img' , ver. CUSTOM, v111
+[IncorrectStructure] : Background image carcion_center/5 is null, WzImage: 'carcion_center.img' , ver. CUSTOM, v111
+[IncorrectStructure] : Background image carcion_center/4 is null, WzImage: 'carcion_center.img' , ver. CUSTOM, v111
+[IncorrectStructure] : Background image carcion_center/4 is null, WzImage: 'carcion_center.img' , ver. CUSTOM, v111
+[IncorrectStructure] : Background image carcion_center/4 is null, WzImage: 'carcion_center.img' , ver. CUSTOM, v111
+[IncorrectStructure] : Background image carcion_center/6 is null, WzImage: 'carcion_center.img' , ver. CUSTOM, v111
+[IncorrectStructure] : Background image carcion_center/13 is null, WzImage: 'carcion_center.img' , ver. CUSTOM, v111
+[IncorrectStructure] : Background image carcion_center/7 is null, WzImage: 'carcion_center.img' , ver. CUSTOM, v111
+[IncorrectStructure] : Background image carcion_center/8 is null, WzImage: 'carcion_center.img' , ver. CUSTOM, v111
+[IncorrectStructure] : Background image carcion_center/9 is null, WzImage: 'carcion_center.img' , ver. CUSTOM, v111
+[IncorrectStructure] : Background image carcion_center/10 is null, WzImage: 'carcion_center.img' , ver. CUSTOM, v111
+[IncorrectStructure] : Background image carcion_center/11 is null, WzImage: 'carcion_center.img' , ver. CUSTOM, v111
+[IncorrectStructure] : Background image carcion_center/12 is null, WzImage: 'carcion_center.img' , ver. CUSTOM, v111
+[IncorrectStructure] : Background image carcion_center/13 is null, WzImage: 'carcion_center.img' , ver. CUSTOM, v111
+[IncorrectStructure] : Background image carcion_center/14 is null, WzImage: 'carcion_center.img' , ver. CUSTOM, v111
+[IncorrectStructure] : Background image carcion_center/15 is null, WzImage: 'carcion_center.img' , ver. CUSTOM, v111
+[IncorrectStructure] : Background image carcion_center/16 is null, WzImage: 'carcion_center.img' , ver. CUSTOM, v111
+[IncorrectStructure] : Background image carcion_center/15 is null, WzImage: 'carcion_center.img' , ver. CUSTOM, v111
+
+----- Start of the error log. [6/13/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+
+----- Start of the error log. [6/13/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'barrierAut'. , map 410007666.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/13/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+
+----- Start of the error log. [6/13/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+
+----- Start of the error log. [6/13/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+
+----- Start of the error log. [6/13/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+
+----- Start of the error log. [6/13/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+
+----- Start of the error log. [6/13/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+
+----- Start of the error log. [6/13/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+
+----- Start of the error log. [6/14/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+
+----- Start of the error log. [6/15/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+
+----- Start of the error log. [6/22/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+
+----- Start of the error log. [6/22/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'barrierAut'. , map 410006061.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'limitUpgradeItem'. , map 410006061.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'ReviveCurFieldOfNoTransferNotDamaged'. , map 410006061.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [6/22/2024 12:00:00 AM] unknown-----
+[IncorrectStructure] : Invalid fieldType 160, map 867116000.img of version CUSTOM, v111
+
+----- Start of the error log. [6/22/2024 12:00:00 AM] unknown-----
+[IncorrectStructure] : Invalid fieldType 169, map 867121901.img of version CUSTOM, v111
+
+----- Start of the error log. [6/28/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'barrierAut'. , map 410003180.img of version BMS, v229. Please fix it at MapInfo.cs
+
+----- Start of the error log. [7/12/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+
+----- Start of the error log. [7/12/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000008.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000008.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000008.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [7/12/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000008.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000008.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000008.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [7/12/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000008.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000008.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000008.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [7/12/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000008.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000008.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000008.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [7/12/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000008.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000008.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000008.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [7/12/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000008.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000008.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000008.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [7/12/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000008.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000008.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000008.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [7/23/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+
+----- Start of the error log. [7/23/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+
+----- Start of the error log. [7/28/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+
+----- Start of the error log. [7/29/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'barrierAut'. , map 410007030.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [7/29/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'barrierAut'. , map 410007261.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'limitUpgradeItem'. , map 410007261.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'ReviveCurFieldOfNoTransferNotDamaged'. , map 410007261.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [7/29/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'barrierAut'. , map 410007260.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'limitUpgradeItem'. , map 410007260.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'ReviveCurFieldOfNoTransferNotDamaged'. , map 410007260.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [7/29/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+
+----- Start of the error log. [7/29/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+
+----- Start of the error log. [7/29/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+
+----- Start of the error log. [7/29/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+
+----- Start of the error log. [7/29/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+
+----- Start of the error log. [7/29/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+
+----- Start of the error log. [7/29/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+
+----- Start of the error log. [7/30/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+
+----- Start of the error log. [8/1/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+
+----- Start of the error log. [8/6/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'safeZone'. , map 000066000.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'safeZone'. , map 000066000.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [8/6/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'safeZone'. , map 000066001.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'safeZone'. , map 000066001.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [8/6/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'safeZone'. , map 450003010.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'safeZone'. , map 450003010.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'safeZone'. , map 450003010.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [8/6/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+
+----- Start of the error log. [8/11/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000010.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000010.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000010.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [8/11/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000007.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000007.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000007.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [8/11/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000001.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000001.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000001.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [8/11/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000002.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000002.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000002.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [8/11/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000003.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000003.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000003.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [8/11/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000004.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000004.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000004.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [8/11/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000001.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000001.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000001.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [8/11/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000002.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000002.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000002.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [8/11/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000003.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000003.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000003.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [8/11/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000004.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000004.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000004.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [8/11/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000001.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000001.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000001.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [8/15/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+
+----- Start of the error log. [8/15/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+
+----- Start of the error log. [8/15/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+
+----- Start of the error log. [8/15/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+
+----- Start of the error log. [8/16/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+
+----- Start of the error log. [8/16/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+
+----- Start of the error log. [8/16/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+
+----- Start of the error log. [8/16/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+
+----- Start of the error log. [8/16/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+
+----- Start of the error log. [8/16/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+
+----- Start of the error log. [8/16/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+
+----- Start of the error log. [8/16/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+
+----- Start of the error log. [8/18/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'barrierAut'. , map 410007663.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [8/18/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'barrierAut'. , map 410007662.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [8/18/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+
+----- Start of the error log. [8/18/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+
+----- Start of the error log. [8/18/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+
+----- Start of the error log. [8/18/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+
+----- Start of the error log. [8/20/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+
+----- Start of the error log. [8/21/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+
+----- Start of the error log. [8/22/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+
+----- Start of the error log. [8/22/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+
+----- Start of the error log. [8/22/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+
+----- Start of the error log. [8/22/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+
+----- Start of the error log. [8/22/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+
+----- Start of the error log. [8/22/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+
+----- Start of the error log. [8/22/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+
+----- Start of the error log. [8/27/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+
+----- Start of the error log. [8/27/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000000.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000000.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000000.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [8/27/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+
+----- Start of the error log. [9/22/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'barrierAut'. , map 410007033.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [10/21/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+
+----- Start of the error log. [10/21/2024 12:00:00 AM] unknown-----
+[IncorrectStructure] : Background object Map.wz/Obj/HofM3/act2/abraxas/0 not found.
+
+----- Start of the error log. [10/21/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+
+----- Start of the error log. [10/21/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+
+----- Start of the error log. [10/21/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+
+----- Start of the error log. [10/25/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+
+----- Start of the error log. [10/27/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+[IncorrectStructure] : Invalid fieldType 161, map 867118200.img of version CUSTOM, v111
+
+----- Start of the error log. [10/27/2024 12:00:00 AM] unknown-----
+[IncorrectStructure] : Invalid fieldType 153, map 867113240.img of version CUSTOM, v111
+
+----- Start of the error log. [10/27/2024 12:00:00 AM] unknown-----
+[IncorrectStructure] : Invalid fieldType 161, map 867119000.img of version CUSTOM, v111
+
+----- Start of the error log. [10/27/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+
+----- Start of the error log. [11/3/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000008.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000008.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000008.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [11/3/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000010.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000010.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000010.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [11/3/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000010.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000010.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000010.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [11/4/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '870000008.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 870000008.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 870000008.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [11/4/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+
+----- Start of the error log. [11/4/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [MapLoader] Unknown field property 'metaArea', WzImage: '910000000.img' , ver. CUSTOM, v111
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'noDeathPenalty'. , map 910000000.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'shiftChannelForbidden'. , map 910000000.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [11/4/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'safeZone'. , map 000004700.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [11/4/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+[MissingFeature] : [MapInfo] Unknown field info/ property: 'barrierAut'. , map 410007033.img of version CUSTOM, v111. Please fix it at MapInfo.cs
+
+----- Start of the error log. [11/4/2024 12:00:00 AM] unknown-----
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 169 for version 39. File Name = Sound.wz
+[MissingFeature] : [WzFile.cs] New Wz image header found. checkByte = 231 for version 39. File Name = Sound2.wz
+
